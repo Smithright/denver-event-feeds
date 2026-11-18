@@ -1,10 +1,13 @@
 # Denver public event feed adapters
 
-Three read-only public iCalendar files, refreshed by GitHub Actions every six hours (00:17, 06:17, 12:17 and 18:17 UTC). Google controls its own polling schedule; GitHub schedules can be delayed. This is the authoritative publisher. Subscription base URL: `https://raw.githubusercontent.com/Smithright/denver-event-feeds/main/feeds/`.
+Five read-only public iCalendar files, refreshed by GitHub Actions every six hours (00:17, 06:17, 12:17 and 18:17 UTC). Google controls its own polling schedule; GitHub schedules can be delayed. This is the authoritative publisher. Subscription base URL: `https://raw.githubusercontent.com/Smithright/denver-event-feeds/main/feeds/`.
 
 - `/feeds/mingle-professional.ics`: public Mingle networking, workshop and panel listings. Supplements existing New Friends and Singles Meetup calendars.
 - `/feeds/archipelago.ics`: Archipelago's public fitDEGREE schedule, minus private/member rentals. Seven-day lookback and 120-day horizon. Registration restrictions remain in event descriptions.
 - `/feeds/clayton.ics`: dates in Clayton's rendered monthly calendar, this month plus three months. Many listings require membership or a guest invitation. Unknown times become explicitly labeled date-only placeholders.
+
+- `/feeds/cerebral-congress-park.ics`: explicit dated Congress Park Run Club entries from Cerebral’s public event page. This covers Congress Park only; it does not invent Wednesday/Thursday events for other taprooms.
+- `/feeds/ephemeral.ics`: Ephemeral Run Club entries filtered from the organizer’s Meetup calendar, excluding trivia. Original event identity, dates, timezone, and cancellation status are preserved.
 
 Only public event fields are returned. No calendar credentials, email addresses, attendees, employee records or account data are stored. Calendar entries are transparent (free), with no alarms or invitations. These feeds do not RSVP or purchase tickets.
 
@@ -20,6 +23,10 @@ DAC: no authorized public calendar feed or event newsletter signup verified. Pub
 
 Lighthouse: newsletter form offers Upcoming Events. Public workshop listing renders in the browser but direct, unattended requests receive 403. No reliable live adapter shipped; copying today's events would not make a subscription.
 
+Cerebral: public server-rendered `/events` includes dated event IDs and UTC times. Only public Congress Park Run Club entries are included; scripts are parsed as text, never executed.
+
+Ephemeral: `https://www.meetup.com/beer-you-can-only-get-here/events/ical/` mixes run club and trivia. Exact run-title filtering retains native event blocks and timezone definitions.
+
 ## Refresh and failure semantics
 
 Each job fetches each organizer independently and atomically replaces only successfully validated feeds. A failed source retains its last good file; other sources can still update. `status.json` records checkedAt, count, lastSuccess and errors. Failure marks the GitHub workflow failed. Stable UIDs allow title/time edits without duplicates. Archipelago's explicit cancellation flag becomes STATUS:CANCELLED. Removed listings disappear from the next successful snapshot; client deletion timing varies. Clayton date changes replace an occurrence because its source has no per-occurrence ID. The feeds cannot report unpublished cancellations.
@@ -31,7 +38,7 @@ Calendars show possibilities as free, not busy, and have no reminders or invitat
 Requires Node 22 or newer; no npm dependencies.
 
 ```
-node --test tests/events.test.mjs
+node --test
 node refresh.mjs
 ```
 
