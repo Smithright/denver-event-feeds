@@ -1,20 +1,20 @@
 {
-  "checkedAt": "2026-11-18T20:42:47.388Z",
+  "checkedAt": "2026-11-18T20:45:12.406Z",
   "sources": {
     "mingle-professional": {
       "ok": true,
       "count": 16,
-      "lastSuccess": "2026-11-18T20:42:47.388Z"
+      "lastSuccess": "2026-11-18T20:45:12.406Z"
     },
     "archipelago": {
       "ok": true,
       "count": 38,
-      "lastSuccess": "2026-11-18T20:42:47.388Z"
+      "lastSuccess": "2026-11-18T20:45:12.406Z"
     },
     "clayton": {
       "ok": true,
       "count": 56,
-      "lastSuccess": "2026-11-18T20:42:47.388Z"
+      "lastSuccess": "2026-11-18T20:45:12.406Z"
     }
   }
 }
