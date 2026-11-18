@@ -29,3 +29,20 @@ test('Clayton reads displayed day and labels missing time rather than trusting s
  const html='<div id="events-container"><ul class="events-list"><div class="events-list-day"><span class="uk-h1">26</span><span class="uk-text-nowrap">11:00 am - 4:00 pm</span><a href="/events/feast/">Feast</a><span class="uk-text-nowrap"></span><a href="/events/wine/">Wine</a></div></ul></div>';
  const out=clayton(html,2026,11);assert.equal(out.length,2);assert.equal(out[0].start,'20261126T110000');assert.equal(out[0].end,'20261126T160000');assert.equal(out[1].dateOnly,true);assert.match(out[1].title,/time not published/);assert.throws(()=>clayton('<html>Access denied</html>',2026,11));
 });
+
+test('publisher retains failed sources while publishing a healthy source and failure receipt',async()=>{
+ const fs=await import('node:fs/promises'),os=await import('node:os'),path=await import('node:path'),{spawnSync}=await import('node:child_process');
+ const dir=await fs.mkdtemp(path.join(os.tmpdir(),'calendar-refresh-'));
+ try{
+  await fs.mkdir(path.join(dir,'feeds'));
+  for(const name of ['archipelago','clayton'])await fs.writeFile(path.join(dir,'feeds',name+'.ics'),'last-good-'+name);
+  const moduleURL=new URL('../refresh.mjs',import.meta.url).href;
+  const code=`globalThis.fetch=async url=>String(url).includes('mingle-events')?Response.json({events:[]}):new Response('down',{status:503});await import(${JSON.stringify(moduleURL)});`;
+  const result=spawnSync(process.execPath,['--input-type=module','-e',code],{cwd:dir,encoding:'utf8'});
+  assert.equal(result.status,1);
+  for(const name of ['archipelago','clayton'])assert.equal(await fs.readFile(path.join(dir,'feeds',name+'.ics'),'utf8'),'last-good-'+name);
+  assert.match(await fs.readFile(path.join(dir,'feeds','mingle-professional.ics'),'utf8'),/^BEGIN:VCALENDAR/);
+  const status=JSON.parse(await fs.readFile(path.join(dir,'status.json'),'utf8'));
+  assert.equal(status.sources['mingle-professional'].ok,true);assert.equal(status.sources.archipelago.ok,false);assert.equal(status.sources.clayton.ok,false);
+ }finally{await fs.rm(dir,{recursive:true,force:true})}
+});
