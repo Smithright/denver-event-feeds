@@ -1,10 +1,10 @@
 # Denver public event feed adapters
 
-Five read-only public iCalendar files, refreshed by GitHub Actions every six hours (00:17, 06:17, 12:17 and 18:17 UTC). Google controls its own polling schedule; GitHub schedules can be delayed. This is the authoritative publisher. Subscription base URL: `https://raw.githubusercontent.com/Smithright/denver-event-feeds/main/feeds/`.
+Seven read-only public iCalendar files, refreshed by GitHub Actions every six hours (00:17, 06:17, 12:17 and 18:17 UTC). Google controls its own polling schedule; GitHub schedules can be delayed. This is the authoritative publisher. Subscription base URL: `https://raw.githubusercontent.com/Smithright/denver-event-feeds/main/feeds/`.
 
 - `/feeds/mingle-professional.ics`: public Mingle networking, workshop and panel listings. Supplements existing New Friends and Singles Meetup calendars.
 - `/feeds/archipelago.ics`: Archipelago's public fitDEGREE schedule, minus private/member rentals. Seven-day lookback and 120-day horizon. Registration restrictions remain in event descriptions.
-- `/feeds/clayton.ics`: dates in Clayton's rendered monthly calendar, this month plus three months. Many listings require membership or a guest invitation. Unknown times become explicitly labeled date-only placeholders.
+- `/feeds/clayton.ics`: dates in Clayton's rendered monthly calendar, this month plus three months. Many listings require membership or a guest invitation. Listings without published times are omitted.
 
 - `/feeds/cerebral-congress-park.ics`: explicit dated Congress Park Run Club entries from Cerebral’s public event page. This covers Congress Park only; it does not invent Wednesday/Thursday events for other taprooms.
 - `/feeds/ephemeral.ics`: Ephemeral Run Club entries filtered from the organizer’s Meetup calendar, excluding trivia. Original event identity, dates, timezone, and cancellation status are preserved.
@@ -26,6 +26,12 @@ Lighthouse: newsletter form offers Upcoming Events. Public workshop listing rend
 Cerebral: public server-rendered `/events` includes dated event IDs and UTC times. Only public Congress Park Run Club entries are included; scripts are parsed as text, never executed.
 
 Ephemeral: `https://www.meetup.com/beer-you-can-only-get-here/events/ical/` mixes run club and trivia. Exact run-title filtering retains native event blocks and timezone definitions.
+
+## Timed calendar cleanup, 2026-11-18
+
+- `/feeds/cmc-timed.ics` merges the official Denver and Boulder ICS feeds, deduplicates organizer UIDs, and omits date-only and local-midnight-to-23:59/midnight placeholders. Genuine trip meeting times must be checked with CMC; this feed does not invent them.
+- `/feeds/chaos-bloom.ics` reads upcoming event cards from the official shows calendar, including shows, jams and drop-in classes. It uses the organizer’s Google Calendar export timestamps, stable Squarespace item IDs and a 120-day horizon. Closure announcements are excluded.
+- Clayton no longer publishes its unknown-time all-day placeholders. Eight were omitted in the first corrected refresh.
 
 ## Refresh and failure semantics
 
