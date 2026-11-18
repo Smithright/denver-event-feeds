@@ -1,0 +1,1 @@
+{"name":"denver-event-feeds","private":true,"type":"module","scripts":{"test":"node --test tests/events.test.mjs","refresh":"node refresh.mjs"},"engines":{"node":">=22"}}

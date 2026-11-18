@@ -1,0 +1,697 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Denver Community Feeds//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Mingle Professional — Public Listings
+X-WR-TIMEZONE:America/Denver
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+BEGIN:VTIMEZONE
+TZID:America/Denver
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:mingle-f8b684d9-9ced-457e-89fe-3d709b0324d2@denver-community-event-feed
+ s
+DTSTAMP:20261118T204156Z
+DTSTART;TZID=America/Denver:20261119T180000
+DTEND;TZID=America/Denver:20261119T203000
+SUMMARY:Professional Networking Happy Hour at Hotel Teatro (Downtown)
+DESCRIPTION:Price: Free ($15 value)\n\nMeet Denver professionals over a gla
+ ss of wine in The Study at Hotel Teatro\, one of downtown's most elegant h
+ istoric hotels. 🍷\n\nConnections from all backgrounds and business stag
+ es are welcome: founders\, freelancers\, small business owners\, corporate
+  professionals\, career changers and anyone looking to grow their network.
+  Just good conversation with interesting people in a beautiful room.\n\n
+ 🍷 Complimentary pour of wine on arrival\, courtesy of Hotel Teatro\n
+ 🎟️ Entry is FREE ($15 value)\, covered by our sponsor\, Living Colora
+ do Team. RSVP to save your spot.\n🤝 Our hosts will help you jump into c
+ onversations and make introductions\n\n🗓 Thursday\, November 19\n🕕 6
+ :00 – 8:30 PM\n📍 The Study at Hotel Teatro\, 1100 14th St\, Denver\, 
+ CO 80202 (Downtown)\n\nSpace is limited to 75 guests\, so please update yo
+ ur RSVP if your plans change so someone on the waitlist can take your spot
+ .\n\nAdditional drinks and food are on your own tab. Please tip your barte
+ nder.\n\nSee you there!\n\n🏡 Thank you to our sponsor\, Living Colorado
+  Team (Real Broker)! John and Kenda will be in the room at select nights a
+ nd are happy to answer home buying questions\, no pressure.\n\nRSVP or app
+ lication may be required. Calendar listing does not register you.\n\nhttps
+ ://mingledenver.com/events/professional-networking-happy-hour-at-hotel-tea
+ tro-downtown-f8b684d9
+LOCATION:Hotel Teatro (The Study)\, 1100 14th St\, Denver
+URL:https://mingledenver.com/events/professional-networking-happy-hour-at-h
+ otel-teatro-downtown-f8b684d9
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:mingle-004645ad-d766-472c-a80c-b068afbede92@denver-community-event-feed
+ s
+DTSTAMP:20261118T204156Z
+DTSTART;TZID=America/Denver:20261130T190000
+DTEND;TZID=America/Denver:20261130T220000
+SUMMARY:Golf & Networking Night: IT Professionals (BALLPARK)
+DESCRIPTION:Price: $5\n\nSwing\, sip and connect with Denver's IT and tech 
+ professionals at Brews N Birdies\, a golf simulator bar in the Ballpark ne
+ ighborhood.\n\n🗓️ Monday\, November 30\n⏱️ 7:00 PM – 10:00 PM\n
+ 📍 Brews N Birdies\, 2156 Larimer St\, Denver\, CO 80205 (Ballpark)\n\n
+ ⛳ All three golf sim bays set up for quick challenges: closest to the pi
+ n\, chipping and longest drive. No golf experience needed\, everyone rotat
+ es through.\n🎯 Darts and the bar for everyone between turns\n🍸 Our g
+ roup special: buy one cocktail from the new menu\, get the second 50% off\
+ n🏆 Contest winners can take home prizes from Brews N Birdies\n🤝 Our 
+ host makes introductions so you're never standing alone\n\nWho should come
+ : developers\, engineers\, IT and security pros\, product and data folks\,
+  founders building in tech\, and anyone who wants to meet them.\n\n$5 per 
+ person. Limited spots\, so grab your ticket early.\n\n🅿️ Street parki
+ ng around the Ballpark neighborhood\, or take the light rail and walk over
+ . If you plan to drink\, please use rideshare or transit.\n\nMingle Profes
+ sional Club: real connections\, no awkward name-tag energy.\n\nRSVP or app
+ lication may be required. Calendar listing does not register you.\n\nhttps
+ ://mingledenver.com/events/golf-and-networking-night-it-professionals-ball
+ park-004645ad
+LOCATION:Brews N Birdies\, 2156 Larimer St\, Ballpark
+URL:https://mingledenver.com/events/golf-and-networking-night-it-profession
+ als-ballpark-004645ad
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:mingle-d722ed9c-f65b-4a75-b025-867c0b044d72@denver-community-event-feed
+ s
+DTSTAMP:20261118T204156Z
+DTSTART;TZID=America/Denver:20261209T173000
+DTEND;TZID=America/Denver:20261209T193000
+SUMMARY:Curated Networking Night at Comet Brews (Apply to Attend)
+DESCRIPTION:Price: Free (apply to attend)\n\nA curated networking night for
+  Denver business owners and professionals\, in the cozy taproom at Comet B
+ rews in Historic Downtown Littleton. 🍻\n\nThis one is small on purpose:
+  just 26 guests\, hand-picked so the room has a mix of industries instead 
+ of ten people who all do the same thing. That means every conversation is 
+ a potential client\, referral partner or collaborator.\n\n✅ How it works
+ : Free to attend (sponsored by Living Colorado Team)\, but you need to APP
+ LY. Tap Apply to attend\, answer the quick questions (company\, industry\,
+  role) on our Partiful page\, and we'll confirm your spot. We keep it to 1
+ -2 people per industry.\n🍺 One complimentary pour per guest\, courtesy 
+ of Comet Brews (the specific beer or kombucha is to be decided)\n🤝 Our 
+ host will make introductions so you're never standing alone\n\n🗓 Wednes
+ day\, December 9\n🕠 5:30 – 7:30 PM\n📍 Comet Brews\, 5642 S Sycamor
+ e St\, Littleton\, CO 80120 (Historic Downtown Littleton)\n\nApproved gues
+ ts: if your plans change\, please let us know so someone on the waitlist c
+ an take your seat.\n\nAdditional drinks and food are on your own tab. Plea
+ se tip your bartender.\n\nSee you there!\n\n🏡 Thank you to our sponsor\
+ , Living Colorado Team (Real Broker)! John and Kenda will be in the room a
+ t select nights and are happy to answer home buying questions\, no pressur
+ e.\n\nRSVP or application may be required. Calendar listing does not regis
+ ter you.\n\nhttps://mingledenver.com/events/curated-networking-night-at-co
+ met-brews-apply-to-attend-d722ed9c
+LOCATION:Comet Brews\, 5642 S Sycamore St\, Littleton\, Littleton
+URL:https://mingledenver.com/events/curated-networking-night-at-comet-brews
+ -apply-to-attend-d722ed9c
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:mingle-80e9135f-48c3-464c-8f71-b77fe41c0b0a@denver-community-event-feed
+ s
+DTSTAMP:20261118T204156Z
+DTSTART;TZID=America/Denver:20261210T090000
+DTEND;TZID=America/Denver:20261210T170000
+SUMMARY:Professional Club Coworking Together Day (BALLPARK)
+DESCRIPTION:Price: Free\n\n💻 Tired of working alone at home? Bring your 
+ laptop and cowork with fellow Denver professionals for the day at Thrive W
+ orkplace in the Ballpark neighborhood.\n\nThis is a small-group day\, so i
+ t's easy to actually get to know everyone. Come for the whole day or drop 
+ in for a few hours between calls.\n\n☕ A real coworking space: desks\, w
+ ifi and a quiet place to focus\n🤝 Our host will introduce you around wh
+ en you arrive\n🎓 Stay after for our free Break into Tech Sales workshop
+ \, 6–9pm in the same building (separate RSVP)\n🏷️ Love the space? U
+ se code NEWFRIENDS for 15% off your first Thrive day pass or meeting room\
+ n\n🗓 Thursday\, December 10\n🕘 9:00 AM – 5:00 PM (come and go as y
+ ou like)\n📍 Thrive Workplace\, 1415 Park Avenue West\, Denver\, CO 8020
+ 5 (BALLPARK)\n\n🚗 Parking: you can park in the lot next door (owned by 
+ the Church of Scientology) at your own risk.\n🚆 Transit: about a 10-min
+ ute walk from Union Station.\n\nGreat for freelancers\, founders\, remote 
+ workers and anyone who gets more done with good company.\n\nFree to attend
+ . Spots are limited\, so please RSVP and update it if your plans change.\n
+ \nSee you there! 👋\n\nRSVP or application may be required. Calendar lis
+ ting does not register you.\n\nhttps://mingledenver.com/events/professiona
+ l-club-coworking-together-day-ballpark-80e9135f
+LOCATION:Thrive Workplace\, 1415 Park Avenue West\, Denver\, CO 80205\, Bal
+ lpark
+URL:https://mingledenver.com/events/professional-club-coworking-together-da
+ y-ballpark-80e9135f
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:mingle-eadeda3c-e903-4ab3-a9a6-ac7f395d8f25@denver-community-event-feed
+ s
+DTSTAMP:20261118T204156Z
+DTSTART;TZID=America/Denver:20261210T180000
+DTEND;TZID=America/Denver:20261210T210000
+SUMMARY:RESCHEDULED Break into Tech Sales: Career Pivot Workshop (BALLPARK)
+DESCRIPTION:Price: Free ($40 value)\n\n🔁 RESCHEDULED: now Thursday\, Dec
+ ember 10\, 6–9pm at Thrive Workplace (Ballpark)\n\n🎟️ Entry is FREE
+  ($40 value)\, covered by our sponsor. Space is limited to 40 attendees\, 
+ so please RSVP to save your spot.\n\n🗓 Thursday\, December 10\n🕕 6:0
+ 0 – 9:00 PM\n📍 Thrive Workplace\, 1415 Park Avenue West\, Denver\, CO
+  80205 (Ballpark)\n\nWant to break into tech but don't have a technical ba
+ ckground?\nYou don't need to know how to code to build a career in technol
+ ogy.\nThis hands-on training workshop is designed for people considering a
+  career change who want to understand how tech sales actually works\, how 
+ to land an entry-level sales role\, how to succeed once you're hired\, and
+  how that first job can turn into a six-figure career path.\nWe'll walk th
+ rough the entire tech sales career ladder—from Sales Development Represe
+ ntative (SDR) to Account Executive (AE) to Enterprise and Strategic Sales
+ —as well as alternative career paths including Customer Success\, Accoun
+ t Management\, Partnerships\, Sales Operations\, Sales Engineering\, and l
+ eadership.\nYou'll also learn the actual day-to-day skills companies expec
+ t from entry-level salespeople so that you can start developing experience
+  before someone gives you your first traditional tech sales job.\n\nWhat I
+ s Tech Sales?\n\nMost technology companies—especially software and SaaS 
+ companies—need sales teams to find potential customers\, understand thei
+ r problems\, demonstrate how the company's product can help\, negotiate co
+ ntracts\, and ultimately generate revenue.\nUnlike retail sales\, many tec
+ hnology sales jobs are structured around a base salary + commission.\nYou'
+ ll often hear the term OTE\, or On-Target Earnings. This represents approx
+ imately what you could earn if you hit 100% of your sales quota.\nFor exam
+ ple:\n$70\,000 base salary + $30\,000 variable commission = $100\,000 OTE.
+ \nHigh performers may earn more than OTE\, while salespeople who miss quot
+ a may earn significantly less.\n\nThe Tech Sales Career Path\n\nSales Deve
+ lopment Representative — SDR / BDR\n\nFor many people entering tech sale
+ s\, this is where the journey begins.\nA Sales Development Representative 
+ (SDR) or Business Development Representative (BDR) is responsible for find
+ ing potential customers and starting conversations with them.\nYou'll lear
+ n how SDRs:\n\nResearch companies and decision-makers\, Identify potential
+  customers\, Write cold emails\, Make cold calls\, Use LinkedIn for prospe
+ cting\, Personalize outreach\, Handle objections\, Qualify prospects\, Sch
+ edule meetings for Account Executives\, Work with tools like CRMs and sale
+ s-engagement platforms\, Manage activity and pipeline metrics\, Get measur
+ ed against quotas.\n\nThis is one of the best places to learn the fundamen
+ tals of professional B2B selling.\nAs of August 2026\, RepVue reports a me
+ dian Denver SDR base salary of about $60\,000 with approximately $85\,000 
+ OTE.\nFor Denver\, a reasonable general range to expect is approximately:\
+ n$50\,000–$70\,000 base\n$70\,000–$100\,000+ OTE\nCompensation varies 
+ dramatically by company\, industry\, quota\, commission structure\, and ex
+ perience.\n\nAccount Executive — Your First Closing Role\n\nThe next maj
+ or step is typically becoming an Account Executive (AE).\nInstead of prima
+ rily generating meetings\, Account Executives are responsible for turning 
+ opportunities into paying customers.\nYou'll learn how AEs:\n\nRun discove
+ ry calls\, Identify business problems\, Ask effective sales questions\, De
+ liver product demonstrations\, Build business cases\, Navigate multiple st
+ akeholders\, Handle objections\, Negotiate pricing\, Manage procurement\, 
+ Work through security and legal reviews\, Forecast deals\, Manage a sales 
+ pipeline\, Close contracts.\n\nAccount Executive roles are generally divid
+ ed based on the size and complexity of the customers they sell to.\n\nWhat
+  You'll Learn in This Workshop\n\nWe'll break down the practical skills so
+ meone needs to begin working in tech sales\, including:\n\nHow SaaS and te
+ chnology companies make money\, Understanding SDR\, BDR\, AE\, Customer Su
+ ccess\, and related roles\, Prospecting and account research\, Identifying
+  ideal customers\, Finding decision-makers\, Cold emailing\, Cold calling\
+ , LinkedIn outreach\, Writing compelling messaging\, Handling rejection\, 
+ Asking discovery questions\, Understanding business problems\, Qualifying 
+ opportunities\, CRM basics\, Pipeline management\, Sales metrics and quota
+ s\, Understanding commission plans\, Interviewing for sales jobs\, Demonst
+ rating sales ability without previous tech experience\, Building your firs
+ t sales résumé\, Getting promoted from SDR to AE\, Navigating the SMB 
+ → Mid-Market → Enterprise → Strategic career path\, Identifying alte
+ rnative career paths within technology.\n\nMost importantly\, we'll talk a
+ bout what actually makes someone successful in the job after they get hire
+ d—not simply how to interview well enough to get hired.\n\nNeed Experien
+ ce? You'll Have an Opportunity to Start Building It.\n\nOne of the hardest
+  parts of changing careers is the classic problem:\nYou need experience to
+  get the job\, but you need the job to get experience.\nParticipants who a
+ re interested will receive access to commission-only sales opportunities t
+ hey can potentially begin pursuing immediately.\nThese opportunities can g
+ ive you a chance to practice skills such as:\n\nProspecting\, Cold outreac
+ h\, Lead generation\, Discovery\, Objection handling\, Pipeline building\,
+  Selling\, Closing.\n\nParticipation is completely optional.\nCommission-o
+ nly work means there is no guaranteed salary or guaranteed income—you ar
+ e paid based on the applicable compensation structure and results.\nFor so
+ meone starting from zero\, however\, it can provide an opportunity to begi
+ n building real-world experience and a track record to discuss in future i
+ nterviews.\n\n⚠️ Important: This Is Training\, Not a Job Guarantee\n\n
+ Purchasing a ticket or completing this workshop does NOT guarantee employm
+ ent\, a salaried position\, interviews\, commissions\, promotions\, or any
+  particular level of income.\nTech sales can be competitive.\nCompanies ma
+ ke their own hiring decisions\, and factors including the economy\, job ma
+ rket\, experience\, interview performance\, location\, individual performa
+ nce\, and company hiring requirements can affect your ability to secure a 
+ role.\nSalary ranges discussed during the workshop are examples and market
+  estimates—not promises of compensation.\nThe goal of this program is to
+  give you:\nKnowledge. Skills. Practice. Resources. A roadmap. And a way t
+ o begin building experience.\nWhat you do with those tools is ultimately u
+ p to you.\n\nWho Should Attend?\n\nThis workshop is designed for people wh
+ o are:\n\nConsidering a career change\, Interested in technology but don't
+  know how to code\, Coming from hospitality\, retail\, education\, custome
+ r service\, recruiting\, healthcare\, nonprofit work\, entrepreneurship\, 
+ or another industry\, Recent college graduates\, Returning to the workforc
+ e\, Interested in increasing their earning potential\, Curious about SaaS 
+ careers\, Already in sales but trying to move into technology\, Interested
+  in Customer Success or other customer-facing tech careers\, Willing to le
+ arn\, practice\, hear “no\,” and keep improving.\n\nYou don't need a c
+ omputer science degree.\nYou don't need to know how to code.\nAnd you don'
+ t necessarily need previous technology experience.\nYou do need to be will
+ ing to communicate\, learn\, practice\, accept feedback\, and put in the w
+ ork.\nIf you've been looking at tech salaries from the outside wondering 
+ “How do people actually get into these jobs?”—this workshop is desig
+ ned to show you the path.\n\nRSVP or application may be required. Calendar
+  listing does not register you.\n\nhttps://mingledenver.com/events/resched
+ uled-break-into-tech-sales-career-pivot-workshop-ball-eadeda3c
+LOCATION:Thrive Workplace\, 1415 Park Avenue West\, Denver\, CO 80205
+URL:https://mingledenver.com/events/rescheduled-break-into-tech-sales-caree
+ r-pivot-workshop-ball-eadeda3c
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:mingle-c7f49a97-67c8-4b32-a411-e8778ab12144@denver-community-event-feed
+ s
+DTSTAMP:20261118T204156Z
+DTSTART;TZID=America/Denver:20261219T100000
+DTEND;TZID=America/Denver:20261219T120000
+SUMMARY:Coffee & Networking: eCommerce at Park Cowork (WASH PARK)
+DESCRIPTION:Price: Free\n\n☕ A Saturday morning coffee and networking ses
+ sion for Denver's eCommerce owners and professionals\, at Park Coworking o
+ n South Gaylord.\n\n🗓️ Saturday\, December 19\n⏱️ 10:00 AM – 12
+ :00 PM\n📍 Park Coworking\, 1040 S Gaylord St\, Denver\, CO 80209 (Wash 
+ Park)\n🎟️ FREE. Limited to 20 spots\, so please RSVP. 21+.\n\nThis mo
+ rning is for people who own an eCommerce business or work in eCommerce: Sh
+ opify and Amazon sellers\, DTC brand teams\, marketers and media buyers\, 
+ developers\, fulfillment and logistics pros\, and the agencies and freelan
+ cers who serve online brands.\n\n☕ Coffee and light snacks\n🤝 Give + 
+ get introductions: share what you work on and what would help you right no
+ w\n💡 Ask the room: bring a real challenge and get ideas from people who
+  have been there\n👋 A Mingle host will greet you and introduce you arou
+ nd\n\nGetting there: Park Coworking has no parking lot\, and street parkin
+ g on Gaylord has a 2-hour limit\, so plan to park on the surrounding block
+ s.\n\n🏢 Thank you to Park Coworking for hosting us!\n\nSupport the comm
+ unity: become a founding member. https://mingledenver.com/membership.html\
+ n\nRSVP or application may be required. Calendar listing does not register
+  you.\n\nhttps://mingledenver.com/events/coffee-and-networking-ecommerce-a
+ t-park-cowork-wash-park-c7f49a97
+LOCATION:Park Coworking\, 1040 S Gaylord St\, Denver\, Wash Park
+URL:https://mingledenver.com/events/coffee-and-networking-ecommerce-at-park
+ -cowork-wash-park-c7f49a97
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:mingle-aded0eec-1887-4e6c-92a0-33d5449a0cb2@denver-community-event-feed
+ s
+DTSTAMP:20261118T204156Z
+DTSTART;TZID=America/Denver:20270104T180000
+DTEND;TZID=America/Denver:20270104T210000
+SUMMARY:AI Step by Step Workshop 1: Business Process Audit (EAST COLFAX)
+DESCRIPTION:Price: Waitlist (apply to attend)\n\n💻 Artificial Intelligen
+ ce – Step by Step is a 6-week hands-on workshop series for Denver busine
+ ss owners. This isn't a lecture about what AI could do. Bring your laptop\
+ , and you'll leave each session with AI working inside your own business\,
+  with a live instructor at your side.\n\nSmall groups only\, so everyone g
+ ets hands-on help. Each workshop stands on its own\, but they build on eac
+ h other\, so come to all of them if you can.\n\nWorkshop 1: Business Proce
+ ss Audit\nMonday\, January 4 · 6–9pm\n\nFind out exactly where AI will 
+ save your business the most time\, and leave with a plan and your first qu
+ ick win.\n\nWhat we'll cover:\n• Map how your business really runs: lead
+  intake\, follow-up\, scheduling\, quotes and invoices\, customer question
+ s\, content\, reporting.\n• Find the time drains: spot the repetitive\, 
+ rules-based tasks that eat your week and are ready for AI.\n• Score ever
+ y opportunity: a simple impact-vs-effort method to rank what to automate f
+ irst\, and what to leave alone.\n• Check your data: where your customer 
+ and business info lives\, and what needs cleaning up before AI can use it.
+ \n• Set guardrails: what should always stay human\, how to protect custo
+ mer privacy\, and where to keep a review step.\n• Build your first quick
+  win live: set up one AI-assisted task in class\, like answering common cu
+ stomer emails or summarizing meetings into action items.\n\nYou'll walk ou
+ t with:\n• A written audit of your top workflows\n• A ranked AI roadma
+ p for the next 90 days\n• An estimate of the hours you could get back ea
+ ch week\n• One working AI process already saving you time\n\n📍 El Pi
+ ñon at La Vista Motel\, 5500 E Colfax Ave (Downstairs in a Private Room)\
+ n🕕 6:00 – 9:00 PM\n🎒 Bring a charged laptop and a real task from y
+ our business to work on\n🍽 Food and drinks from El Piñon available to 
+ order\n\n⏳ Join the waitlist. Seats are limited so the instructor can he
+ lp everyone. Join the waitlist and we'll confirm your seat and send next s
+ teps.\n\nWeeks 4–6 will be announced soon.\n\nRSVP or application may be
+  required. Calendar listing does not register you.\n\nhttps://mingledenver
+ .com/events/ai-step-by-step-workshop-1-business-process-audit-east-colfa-a
+ ded0eec
+LOCATION:El Piñon at La Vista Motel\, 5500 E Colfax Ave\, Denver (Downstai
+ rs in a Private Room)\, East Colfax
+URL:https://mingledenver.com/events/ai-step-by-step-workshop-1-business-pro
+ cess-audit-east-colfa-aded0eec
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:mingle-7b14ce1c-3d39-420d-be22-0db34422b395@denver-community-event-feed
+ s
+DTSTAMP:20261118T204156Z
+DTSTART;TZID=America/Denver:20270107T180000
+DTEND;TZID=America/Denver:20270107T200000
+SUMMARY:Professional Club Networking at River North Brewery (GLOBEVILLE)
+DESCRIPTION:Price: Free\n\nMeet Denver professionals over craft beer at Riv
+ er North Brewery's Washington Street taproom. We'll have tables and the co
+ uch section reserved for our group.\n\n🗓️ Thursday\, January 7\n⏱
+ ️ 6:00 – 8:00 PM\n📍 River North Brewery\, 6021 Washington St\, Denv
+ er\, CO 80216\n\n🤝 Our host makes introductions so you're never standin
+ g alone\n🍺 Award-winning craft beer from River North Brewery (order and
+  pay for your own)\n💼 Founders\, freelancers\, career changers\, new-to
+ -Denver pros: everyone's welcome\n\nFree to attend. Limited spots\, so ple
+ ase RSVP and update it if your plans change.\n\nMingle Professional Club: 
+ real connections\, no awkward name-tag energy.\n\nRSVP or application may 
+ be required. Calendar listing does not register you.\n\nhttps://mingledenv
+ er.com/events/professional-club-networking-at-river-north-brewery-globevil
+ -7b14ce1c
+LOCATION:River North Brewery\, 6021 Washington St\, Denver\, Globeville
+URL:https://mingledenver.com/events/professional-club-networking-at-river-n
+ orth-brewery-globevil-7b14ce1c
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:mingle-c024abfc-b396-4cb8-9323-5bc51098764a@denver-community-event-feed
+ s
+DTSTAMP:20261118T204156Z
+DTSTART;TZID=America/Denver:20270111T180000
+DTEND;TZID=America/Denver:20270111T210000
+SUMMARY:AI Step by Step Workshop 2: Outbound Sales Agents (EAST COLFAX)
+DESCRIPTION:Price: Waitlist (apply to attend)\n\n💻 Artificial Intelligen
+ ce – Step by Step is a 6-week hands-on workshop series for Denver busine
+ ss owners. This isn't a lecture about what AI could do. Bring your laptop\
+ , and you'll leave each session with AI working inside your own business\,
+  with a live instructor at your side.\n\nSmall groups only\, so everyone g
+ ets hands-on help. Each workshop stands on its own\, but they build on eac
+ h other\, so come to all of them if you can.\n\nWorkshop 2: Outbound Sales
+  Agents\nMonday\, January 11 · 6–9pm\n\nBuild an AI-assisted outreach s
+ ystem that finds the right prospects\, writes personal messages\, and keep
+ s follow-up from falling through the cracks. You stay in control of what g
+ oes out.\n\nWhat we'll cover:\n• Define your ideal customer: turn "anyon
+ e who needs us" into a sharp profile: industry\, size\, role\, location\, 
+ and the trigger that makes them buy now.\n• Build a target list: how to 
+ structure a prospect list and use AI to research each company before you r
+ each out.\n• Write outreach that sounds like you: turn your best pitch i
+ nto a 3–4 step sequence that AI personalizes for each prospect\, with no
+  generic spam.\n• Plan your follow-up cadence: when to follow up and whe
+ n to stop\, plus how AI can flag the replies that need you right away.\n
+ • Handle replies faster: draft responses to common questions and objecti
+ ons so hot leads get answered in minutes.\n• Stay out of the spam folder
+ : sending habits that protect your reputation\, and staying compliant with
+  email marketing rules.\n• Track what matters: the few numbers that tell
+  you if outreach is working: reply rate\, meetings booked\, deals closed.\
+ n\nYou'll walk out with:\n• A clear ideal-customer profile\n• Your fir
+ st outreach sequence written and ready to launch\n• A repeatable weekly 
+ prospecting routine you can run in under an hour\n\n📍 El Piñon at La V
+ ista Motel\, 5500 E Colfax Ave (Downstairs in a Private Room)\n🕕 6:00 
+ – 9:00 PM\n🎒 Bring a charged laptop and a real task from your busines
+ s to work on\n🍽 Food and drinks from El Piñon available to order\n\n
+ ⏳ Join the waitlist. Seats are limited so the instructor can help everyo
+ ne. Join the waitlist and we'll confirm your seat and send next steps.\n\n
+ Weeks 4–6 will be announced soon.\n\nRSVP or application may be required
+ . Calendar listing does not register you.\n\nhttps://mingledenver.com/even
+ ts/ai-step-by-step-workshop-2-outbound-sales-agents-east-colfax-c024abfc
+LOCATION:El Piñon at La Vista Motel\, 5500 E Colfax Ave\, Denver (Downstai
+ rs in a Private Room)\, East Colfax
+URL:https://mingledenver.com/events/ai-step-by-step-workshop-2-outbound-sal
+ es-agents-east-colfax-c024abfc
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:mingle-1089f89a-d5f6-490e-b686-b16c64f0674e@denver-community-event-feed
+ s
+DTSTAMP:20261118T204156Z
+DTSTART;TZID=America/Denver:20270113T120000
+DTEND;TZID=America/Denver:20270113T140000
+SUMMARY:Lunch & Learn: CEO Group at Brews N Birdies (BALLPARK)
+DESCRIPTION:Price: $15\n\nA midday Lunch & Learn for Denver CEOs\, founders
+  and business owners at Brews N Birdies\, a golf simulator bar in the Ball
+ park neighborhood.\n\n🗓️ Wednesday\, January 13\n⏱️ 12:00 PM – 
+ 2:00 PM\n📍 Brews N Birdies\, 2156 Larimer St\, Denver\, CO 80205 (Ballp
+ ark)\n\n🎤 A short\, practical talk for business leaders (topic announce
+ d soon)\n🤝 Curated introductions with other owners and executives\n⛳ 
+ Quick golf sim challenges after the talk\, if you want to swing\n🍸 Our 
+ group special: buy one cocktail from the new menu\, get the second 50% off
+ \n\n$15 per person. Spots are limited\, so grab your ticket early.\n\n🅿
+ ️ Parking is available in the lot across the street.\n\nMingle Professio
+ nal Club: real connections\, no sales pitches.\n\nRSVP or application may 
+ be required. Calendar listing does not register you.\n\nhttps://mingledenv
+ er.com/events/lunch-and-learn-ceo-group-at-brews-n-birdies-ballpark-1089f8
+ 9a
+LOCATION:Brews N Birdies\, 2156 Larimer St\, Ballpark
+URL:https://mingledenver.com/events/lunch-and-learn-ceo-group-at-brews-n-bi
+ rdies-ballpark-1089f89a
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:mingle-d15ff0a4-f7ef-4303-b6ac-3ab1599ae436@denver-community-event-feed
+ s
+DTSTAMP:20261118T204156Z
+DTSTART;TZID=America/Denver:20270113T180000
+DTEND;TZID=America/Denver:20270113T200000
+SUMMARY:Professional Club Networking at River North Brewery (RINO)
+DESCRIPTION:Price: Free\n\nMeet Denver professionals over craft beer in Riv
+ er North Brewery's RiNo event room.\n\n🗓️ Wednesday\, January 13\n⏱
+ ️ 6:00 – 8:00 PM\n📍 River North Brewery\, 3400 Blake St\, Denver\, 
+ CO 80205 (RiNo)\n\n🤝 Our host makes introductions so you're never stand
+ ing alone\n🍺 Award-winning craft beer from River North Brewery (order a
+ nd pay for your own)\n💼 Founders\, freelancers\, career changers\, new-
+ to-Denver pros: everyone's welcome\n\nFree to attend. Limited spots\, so p
+ lease RSVP and update it if your plans change.\n\nMingle Professional Club
+ : real connections\, no awkward name-tag energy.\n\nRSVP or application ma
+ y be required. Calendar listing does not register you.\n\nhttps://minglede
+ nver.com/events/professional-club-networking-at-river-north-brewery-rino-d
+ 15ff0a4
+LOCATION:River North Brewery\, 3400 Blake St\, Denver\, RiNo
+URL:https://mingledenver.com/events/professional-club-networking-at-river-n
+ orth-brewery-rino-d15ff0a4
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:mingle-33fe651c-8c63-432e-8d6c-77fbe263e0a6@denver-community-event-feed
+ s
+DTSTAMP:20261118T204156Z
+DTSTART;TZID=America/Denver:20270125T180000
+DTEND;TZID=America/Denver:20270125T210000
+SUMMARY:AI Step by Step Workshop 3: Marketing at Scale (EAST COLFAX)
+DESCRIPTION:Price: Waitlist (apply to attend)\n\n💻 Artificial Intelligen
+ ce – Step by Step is a 6-week hands-on workshop series for Denver busine
+ ss owners. This isn't a lecture about what AI could do. Bring your laptop\
+ , and you'll leave each session with AI working inside your own business\,
+  with a live instructor at your side.\n\nSmall groups only\, so everyone g
+ ets hands-on help. Each workshop stands on its own\, but they build on eac
+ h other\, so come to all of them if you can.\n\nWorkshop 3: Marketing at S
+ cale: Social Media and Beyond\nMonday\, January 25 · 6–9pm\n\nTurn one 
+ good idea into a month of on-brand marketing\, without hiring an agency or
+  living on your phone.\n\nWhat we'll cover:\n• Teach AI your brand voice
+ : create a simple voice guide so everything AI drafts sounds like your bus
+ iness\, not a robot.\n• One idea\, many posts: turn a single topic\, vid
+ eo or blog into posts for each platform\, an email newsletter\, captions a
+ nd short-form video scripts.\n• Plan 30 days in one sitting: build a con
+ tent calendar around your offers\, seasons and local events.\n• Visuals 
+ made easy: use AI to brainstorm and create graphics and photo ideas that f
+ it your brand.\n• Email marketing that sells: draft a newsletter and a s
+ imple promo email your customers will actually open.\n• Keep it human: w
+ here your personal touch matters most\, and a quick review step before any
+ thing goes live.\n• Measure and improve: read your results and let AI su
+ ggest what to post more of.\n\nYou'll walk out with:\n• A brand voice gu
+ ide\n• A 30-day content calendar\n• Your first week of posts and an em
+ ail newsletter drafted and ready to publish\n\n📍 El Piñon at La Vista 
+ Motel\, 5500 E Colfax Ave (Downstairs in a Private Room)\n🕕 6:00 – 9:
+ 00 PM\n🎒 Bring a charged laptop and a real task from your business to w
+ ork on\n🍽 Food and drinks from El Piñon available to order\n\n⏳ Join
+  the waitlist. Seats are limited so the instructor can help everyone. Join
+  the waitlist and we'll confirm your seat and send next steps.\n\nWeeks 4
+ –6 will be announced soon.\n\nRSVP or application may be required. Calen
+ dar listing does not register you.\n\nhttps://mingledenver.com/events/ai-s
+ tep-by-step-workshop-3-marketing-at-scale-east-colfax-33fe651c
+LOCATION:El Piñon at La Vista Motel\, 5500 E Colfax Ave\, Denver (Downstai
+ rs in a Private Room)\, East Colfax
+URL:https://mingledenver.com/events/ai-step-by-step-workshop-3-marketing-at
+ -scale-east-colfax-33fe651c
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:mingle-12492690-4522-4c2a-8363-b3c66538807e@denver-community-event-feed
+ s
+DTSTAMP:20261118T204156Z
+DTSTART;TZID=America/Denver:20270128T180000
+DTEND;TZID=America/Denver:20270128T200000
+SUMMARY:Networking Night: eCommerce at Industrious (LOHI)
+DESCRIPTION:Price: Free (sponsored)\n\nWelcome to Mingle Denver’s Network
+ ing Nights\, a series of focused professional networking events built arou
+ nd specific industries\, business models\, and professional communities. I
+ nstead of trying to meet everyone in Denver at once\, each event brings to
+ gether people with more in common so it is easier to find relevant collabo
+ rators\, referrals\, resources\, clients\, and business connections. This 
+ night is for eCommerce business owners and professionals working in the eC
+ ommerce industry at companies of every size.\n\nEVENT DETAILS:\n🗓️ Th
+ ursday\, January 28\n⏱️ 6:00 PM–8:00 PM\n📍 Industrious Platte Str
+ eet\n2420 17th Street\, 3rd Floor\, Denver\, CO 80202 (LoHi)\n🎟️ FREE
+  entry\, hosted by our sponsor for the night\, Industrious. RSVP to save y
+ our spot. 21+.\n\nThis event is for people who own an eCommerce business o
+ r work professionally in eCommerce\, whether you are building something on
+  your own\, working at a growing brand\, supporting online sellers\, or le
+ ading eCommerce strategy inside a larger company.\nYou do not need to be a
+  founder to belong here.\nThis is a room for people working across the ful
+ l eCommerce ecosystem\, from small independent stores to established brand
+ s and large companies.\n\nWho Should Come?\n\n🛍️ eCommerce business o
+ wners\n📦 Amazon and marketplace sellers\n🛒 Shopify and WooCommerce p
+ rofessionals\n🚀 Direct to consumer brand teams\n📱 Social commerce an
+ d TikTok Shop professionals\n📣 Performance marketers and media buyers\n
+ ✍️ Email and retention marketers\n🔎 SEO and organic growth professi
+ onals\n🎨 Brand and creative teams\n💻 eCommerce developers and techni
+ cal teams\n📊 Analytics and conversion optimization professionals\n🚚 
+ Fulfillment\, logistics and supply chain teams\n📬 Packaging and shippin
+ g professionals\n🤝 Affiliate and influencer marketing teams\n💳 Payme
+ nts\, finance and eCommerce technology professionals\n🧑‍💼 Consulta
+ nts\, freelancers and agencies serving eCommerce brands\nWhether you are r
+ unning a small online shop or working inside a national or global business
+ \, this night is about meeting other people who understand online retail\,
+  digital growth\, customer acquisition\, retention\, operations\, technolo
+ gy\, and the realities of building revenue through eCommerce.\n\nNetworkin
+ g That Gives You Something to Talk About\n\n🤝 Give + Get Introductions\
+ nShare what you work on and what kind of experience\, expertise\, or conne
+ ction would be useful to you right now.\n⚡ Rapid Connections\nMeet sever
+ al people through short conversations\, then circle back to the connection
+ s you want to explore further.\n🛒 eCommerce Matchmaking\nMeet people wo
+ rking in complementary areas of the industry. A brand owner might meet a l
+ ogistics specialist. A marketer might meet a developer. A marketplace sell
+ er might meet someone working in paid media or retention.\n💡 Ask the Ro
+ om\nBring a real eCommerce challenge. Customer acquisition getting expensi
+ ve? Looking for better fulfillment? Trying to improve conversion? Expandin
+ g to a new marketplace? Someone in the room may already have experience wi
+ th it.\n\nUse the Mingle Barter Board\n\nThe Mingle Barter Board is our on
+ line service exchange where local professionals can post what they can off
+ er and what they need.\nhttps://mingledenver.com/barter\nA product photogr
+ apher could trade a shoot for web development. An email marketer might exc
+ hange a campaign build for brand photography. A designer could trade packa
+ ging work for paid advertising support.\n\nGetting There\n\nIndustrious Pl
+ atte Street is on the 3rd floor at 2420 17th Street in LoHi. Give yourself
+  a little extra time to park and find the space. If you plan to drink\, pl
+ ease do not drink and drive. Public transit\, rideshare\, or arranging a s
+ afe ride home are all good options.\n\nCome Ready to Talk About What You A
+ re Building\n\nWhat part of eCommerce do you work in?\nWhat are you trying
+  to grow?\nWhat is working?\nWhat are you trying to solve next?\nYou might
+  leave with a new customer\, vendor\, referral partner\, collaborator\, hi
+ re\, service provider\, or simply another person in the industry who under
+ stands what you are working on.\n\nWant Your Business in Front of Denver
+ ’s eCommerce Community?\n\nWe are looking for sponsors and business part
+ ners interested in reaching eCommerce business owners\, professionals\, ma
+ rketers\, operators\, founders\, and decision makers.\nExplore Mingle Denv
+ er sponsorship opportunities at:\nhttps://mingledenver.com/sponsor\nCome m
+ eet the people building\, operating\, and growing eCommerce businesses acr
+ oss Denver.\n\n🏢 Thank you to Industrious for hosting us in their Platt
+ e Street space!\n\nRSVP or application may be required. Calendar listing d
+ oes not register you.\n\nhttps://mingledenver.com/events/networking-night-
+ ecommerce-at-industrious-lohi-12492690
+LOCATION:Industrious Platte Street\, 2420 17th St\, 3rd Floor\, Denver\, Lo
+ Hi
+URL:https://mingledenver.com/events/networking-night-ecommerce-at-industrio
+ us-lohi-12492690
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:mingle-83b47570-9e9e-4390-bc58-1b7b0bd36a02@denver-community-event-feed
+ s
+DTSTAMP:20261118T204156Z
+DTSTART;TZID=America/Denver:20270204T180000
+DTEND;TZID=America/Denver:20270204T200000
+SUMMARY:Professional Club Networking at River North Brewery (RINO)
+DESCRIPTION:Price: Free\n\nMeet Denver professionals over craft beer in Riv
+ er North Brewery's RiNo event room.\n\n🗓️ Thursday\, February 4\n⏱
+ ️ 6:00 – 8:00 PM\n📍 River North Brewery\, 3400 Blake St\, Denver\, 
+ CO 80205 (RiNo)\n\n🤝 Our host makes introductions so you're never stand
+ ing alone\n🍺 Award-winning craft beer from River North Brewery (order a
+ nd pay for your own)\n💼 Founders\, freelancers\, career changers\, new-
+ to-Denver pros: everyone's welcome\n\nFree to attend. Limited spots\, so p
+ lease RSVP and update it if your plans change.\n\nMingle Professional Club
+ : real connections\, no awkward name-tag energy.\n\nRSVP or application ma
+ y be required. Calendar listing does not register you.\n\nhttps://minglede
+ nver.com/events/professional-club-networking-at-river-north-brewery-rino-8
+ 3b47570
+LOCATION:River North Brewery\, 3400 Blake St\, Denver\, RiNo
+URL:https://mingledenver.com/events/professional-club-networking-at-river-n
+ orth-brewery-rino-83b47570
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:mingle-24c5f195-5080-4eb5-b485-ba288f1ad3a3@denver-community-event-feed
+ s
+DTSTAMP:20261118T204156Z
+DTSTART;TZID=America/Denver:20270213T100000
+DTEND;TZID=America/Denver:20270213T120000
+SUMMARY:Coffee & Networking: Small Business at Park Cowork (WASH PARK)
+DESCRIPTION:Price: Free\n\n☕ A Saturday morning coffee and networking ses
+ sion for Denver's small business owners\, at Park Coworking on South Gaylo
+ rd.\n\n🗓️ Saturday\, February 13\n⏱️ 10:00 AM – 12:00 PM\n📍 
+ Park Coworking\, 1040 S Gaylord St\, Denver\, CO 80209 (Wash Park)\n🎟
+ ️ FREE. Limited to 20 spots\, so please RSVP. 21+.\n\nThis morning is fo
+ r people who own or run a small business: shop and restaurant owners\, ser
+ vice businesses\, consultants\, startup founders\, side hustlers turning p
+ ro\, and the people who keep small businesses running.\n\n☕ Coffee and l
+ ight snacks\n🤝 Give + get introductions: share what you work on and wha
+ t would help you right now\n💡 Ask the room: bring a real challenge and 
+ get ideas from people who have been there\n👋 A Mingle host will greet y
+ ou and introduce you around\n\nGetting there: Park Coworking has no parkin
+ g lot\, and street parking on Gaylord has a 2-hour limit\, so plan to park
+  on the surrounding blocks.\n\n🏢 Thank you to Park Coworking for hostin
+ g us!\n\nSupport the community: become a founding member. https://minglede
+ nver.com/membership.html\n\nRSVP or application may be required. Calendar 
+ listing does not register you.\n\nhttps://mingledenver.com/events/coffee-a
+ nd-networking-small-business-at-park-cowork-wash-par-24c5f195
+LOCATION:Park Coworking\, 1040 S Gaylord St\, Denver\, Wash Park
+URL:https://mingledenver.com/events/coffee-and-networking-small-business-at
+ -park-cowork-wash-par-24c5f195
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:mingle-f512728a-16dd-49af-9dce-806bf8c2acb1@denver-community-event-feed
+ s
+DTSTAMP:20261118T204156Z
+DTSTART;TZID=America/Denver:20270306T100000
+DTEND;TZID=America/Denver:20270306T120000
+SUMMARY:Coffee & Networking: Freelancers at Park Cowork (WASH PARK)
+DESCRIPTION:Price: Free\n\n☕ A Saturday morning coffee and networking ses
+ sion for Denver's freelancers\, contractors and solopreneurs\, at Park Cow
+ orking on South Gaylord.\n\n🗓️ Saturday\, March 6\n⏱️ 10:00 AM 
+ – 12:00 PM\n📍 Park Coworking\, 1040 S Gaylord St\, Denver\, CO 80209 
+ (Wash Park)\n🎟️ FREE. Limited to 20 spots\, so please RSVP. 21+.\n\nT
+ his morning is for people who work for themselves: designers\, writers\, d
+ evelopers\, marketers\, photographers\, coaches\, consultants\, virtual as
+ sistants and anyone building a freelance business.\n\n☕ Coffee and light
+  snacks\n🤝 Give + get introductions: share what you work on and what wo
+ uld help you right now\n💡 Ask the room: bring a real challenge and get 
+ ideas from people who have been there\n👋 A Mingle host will greet you a
+ nd introduce you around\n\nGetting there: Park Coworking has no parking lo
+ t\, and street parking on Gaylord has a 2-hour limit\, so plan to park on 
+ the surrounding blocks.\n\n🏢 Thank you to Park Coworking for hosting us
+ !\n\nSupport the community: become a founding member. https://mingledenver
+ .com/membership.html\n\nRSVP or application may be required. Calendar list
+ ing does not register you.\n\nhttps://mingledenver.com/events/coffee-and-n
+ etworking-freelancers-at-park-cowork-wash-park-f512728a
+LOCATION:Park Coworking\, 1040 S Gaylord St\, Denver\, Wash Park
+URL:https://mingledenver.com/events/coffee-and-networking-freelancers-at-pa
+ rk-cowork-wash-park-f512728a
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

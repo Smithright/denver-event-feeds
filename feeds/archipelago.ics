@@ -1,0 +1,1641 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Denver Community Feeds//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Archipelago — Public Listings
+X-WR-TIMEZONE:America/Denver
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+BEGIN:VTIMEZONE
+TZID:America/Denver
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:archipelago-4360552@denver-community-event-feeds
+DTSTAMP:20261118T204156Z
+DTSTART:20261118T193000Z
+DTEND:20261118T213000Z
+LAST-MODIFIED:20261118T184959Z
+SUMMARY:CO-INSPIRE
+DESCRIPTION:A free weekly gathering for changemakers\, connectors\, entrepr
+ eneurs\, creatives\, and community-minded humans to COLLABORATE.\n\nWhat i
+ f one day each week you stepped into a space where conversation\, collabor
+ ation\, creativity\, and genuine human connection happened naturally?\n\nC
+ o-Inspiring is a weekly\, open-house gathering designed to make collaborat
+ ion and support more accessible. It's not a networking event nor structure
+ d. It's a shared space where people come together to connect\, exchange id
+ eas\, hear one another\, support one another\, and discover what unfolds. 
+ WE BUILD BRIDGES.\n\nCome for 30 minutes or stay all day. Bring your curio
+ sity\, a friend\, a project you're working on\, your vision\, your laptop\
+ , food or drink—or simply yourself.\n\nWhen\nWednesdays | 12:30 PM – 2
+ :30 PM \nDrop in anytime!\n\nWhere: Archipelago\nWe'll be hanging on the f
+ irst floor\, come in the front door and we will be there to welcome you!\n
+ \nWho It's For\nEveryone is welcome. Every idenity\, background\, industry
+ .\nWhether you're building a business\, community or social justice moveme
+ nt\, exploring a new idea\, between projects AND looking for meaningful co
+ nversations\, collabative approach\, new possibilities... or creating deep
+ er relationships. You belong here.\n\nWhat to Expect\n● A host to greet 
+ you and introduce you to new folks\n● Real conversations about life\n●
+  Co-working and collaboration\n● New friendships\n● Inspiration and fr
+ esh perspectives\n● Space to both contribute and receive\, hear and be h
+ eard\n● A relaxed\, come-and-go atmosphere. No agenda. No pressure. \nSt
+ ay for as little or as long as you'd like.\n● Bring your own food and dr
+ ink!\n● Free Wi-Fi—bring your laptop if you'd like to work\n● Free p
+ arking lot.\n● Open seating on first floor\, tables or couches.\n\nOur I
+ nvitation\nThis experience works because of the people who participate.\n\
+ nCome willing to:\n● Be curious and open.\n● Listen deeply.\n● Respe
+ ct diverse perspectives.\n● Help cultivate the kind of community you'd l
+ ike to be part of.\n\nInvite a friend\, colleague\, client\, mentee\, or n
+ eighbor who would appreciate a more human way to connect.\n\nWant to Help 
+ Host?\nWe're looking for connectors to co-host once a month! Do you enjoy 
+ welcoming people\, making introductions\, and helping others feel at home?
+  If that sounds like you\, send Zannah a message\nat liberationstudio.co@g
+ mail.com\n\nWe will co-create a partnership (think- cross pollinate on soc
+ ial & eventbrite\, you can choose a theme and prompt if you'd like for the
+  group\, and more)\n\nLet's build the kind of community many of us have be
+ en looking for—together.\n\nInstructor: Zannah Campora\n\nPayment may be
+  required.\n\nPublicly listed\; guest eligibility and registration require
+ ments vary. This is not an RSVP.\n\nhttps://share.fitdegree.com/?r=4360552
+LOCATION:First Floor
+URL:https://share.fitdegree.com/?r=4360552
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:archipelago-4254286@denver-community-event-feeds
+DTSTAMP:20261118T204156Z
+DTSTART:20261119T010000Z
+DTEND:20261119T041500Z
+LAST-MODIFIED:20261118T010014Z
+SUMMARY:Denver Circling Night
+DESCRIPTION:Event Type: Wellness/Social\nOpen To: Members & Ticketed Guests
+ \nTickets: Free for the first 5 members\, $40 for guests\n\nOnly 5 free me
+ mber spots\, first come first served. Once they're gone\, grab a guest tic
+ ket here: https://coloradoconnectioncollective.com/events\n\nABOUT THE EVE
+ NT:\n\nWhat if you could drop the small talk and experience conversations 
+ that leave you feeling truly seen\, heard\, and understood? What if deep\,
+  meaningful connection was something you could cultivate with anyone?\n\nT
+ his gathering is an opportunity to step into a different way of relating\,
+  one that brings clarity\, presence\, and profound connection. Through Cir
+ cling® and authentic relating exercises\, we’ll slow down\, tune in\, a
+ nd explore what it’s like to be fully ourselves in connection with other
+ s.\n\nWHAT YOU MAY EXPERIENCE:\n• A deeper sense of presence and connect
+ ion in your interactions\n• Conversations that move beyond the surface a
+ nd into something real\n• The power of being fully seen and appreciated 
+ just as you are\n• Insights into your own patterns in relationships\n•
+  A shift in how you experience yourself and others\n\nJoin us every 2nd We
+ dnesday and experience the kind of conversations that leave you feeling mo
+ re alive\, connected\, and deeply understood.\n\nWe’ll be starting at 6:
+ 00 PM\, so we kindly ask that you arrive between 5:50 and 5:55 PM to get s
+ ettled. To honor the experience for everyone\, doors will close at 6:10 PM
+ .\n\nThis is an event facilitated by the Colorado Connection Collective in
+  collaboration with Archipelago. \n\n_\n\nThe term “Circling®” is a r
+ egistered trademark. We\, Mat Weddle and Jake Favor\, have licenses from T
+ he International Circling Federation to use the term\, in accordance with 
+ their guidelines\, in relation to the Circling facilitation we offer. We a
+ re certified through The Circling Institute lineage. You can read about th
+ e unique distinctions between the three lineages\, as well as the standard
+ s of service required of licensees\, on the International Circling Federat
+ ion website.\n\nInstructor: Colorado Connection Collective\n\nPayment may 
+ be required.\n\nPublicly listed\; guest eligibility and registration requi
+ rements vary. This is not an RSVP.\n\nhttps://share.fitdegree.com/?r=42542
+ 86
+LOCATION:The Attic - Archipelago | 2345 7th Street
+URL:https://share.fitdegree.com/?r=4254286
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:archipelago-4373909@denver-community-event-feeds
+DTSTAMP:20261118T204156Z
+DTSTART:20261119T180000Z
+DTEND:20261119T200000Z
+LAST-MODIFIED:20261118T180021Z
+SUMMARY:Archipelago Community Project
+DESCRIPTION:Event Type: Community Wellness/Social\nOpen To: Members Only (t
+ his includes tenants\, members\, community ambassadors\, and past members 
+ who are still connected to the space)\nTickets: Free \n\nABOUT THE EVENT:\
+ n\nArchipelago is a space rich with stories\, relationships\, untapped pos
+ sibilities\, and humans like you! \n\nYou are invited to engage in the new
+  Archipelago Community Project: it is a series of free brainstorming sessi
+ ons to explore ideas and possibilities for Archipelago’s future. This di
+ alogue will include intentional structure and creative prompts to bring fo
+ rth collaborative conversations to help us all imagine and shape the futur
+ e of Archipelago.\n\nOver the next three months\, there will be 4 various 
+ opportunities to sit in a circle with one another in the Attic! \n\nThe mo
+ re you want to be involved\, we encourage you to come to more than one ses
+ sion\, as well as schedule a 1 to 1 with Zannah. If you only want to share
+  your ideas\, try to attend at least one session.\n\nCome share your exper
+ ience of this place and what you hope for it! We’re curious about what
+ ’s possible\, what Archipelago could become\, and how we all want to be 
+ here… together. \n\nBut we need YOU: your voice\, energy\, ideas\, and d
+ reams. What we hear from YOU can help shape the next chapter of Archipelag
+ o. \n\nJoin us at one or more sessions\, it’s free with an RSVP. Please 
+ invite anyone who cares about this space & community! \n\nThursday Nov 19t
+ h | 11am -1pm \nTuesday Dec 15th | 6:30-8:30pm \nThursday Jan 14th | 6:30-
+ 8:30pm \nThursday Jan 28th | 11am-1pm\n\nInstructor: Zannah Campora\n\nChe
+ ck registration for access and pricing.\n\nPublicly listed\; guest eligibi
+ lity and registration requirements vary. This is not an RSVP.\n\nhttps://s
+ hare.fitdegree.com/?r=4373909
+LOCATION:The Attic - Archipelago | 2345 7th Street
+URL:https://share.fitdegree.com/?r=4373909
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:archipelago-4254285@denver-community-event-feeds
+DTSTAMP:20261118T204156Z
+DTSTART:20261122T010000Z
+DTEND:20261122T050000Z
+LAST-MODIFIED:20261116T161737Z
+SUMMARY:Dance Meets Tantra: Rendezvous
+DESCRIPTION:Event Type: Wellness/Educational\nOpen To: Members & Ticketed G
+ uests\nTickets: \nFree for 3 Members\, for Guests\, purchase tickets here:
+ \nhttps://www.tickettailor.com/events/yosefhayim/2459660\n\nABOUT THE EVEN
+ T:\n\nWhat happens when dance\, eros\, intimacy\, and ritual all meet in o
+ ne space?\n\nYou live for dance spaces where your full\, raw\, unfiltered 
+ expression is not only welcomed\, but celebrated.\n\nBut\, you don't just 
+ want to dance alone the whole time.\nYou want to be deeply met.\nNot just 
+ through physical contact - but to be truly seen\, held\, and understood.\n
+ \nYou long for a dance floor with enough attunement\, trust\, and permissi
+ on to allow your beautiful erotic nature to be felt and expressed.\nTo slo
+ w down and feel your center.\nTo let the music touch every part of you.\nT
+ o unapologetically shake dat ass and allow eros to pulse through every cel
+ l in your body.\n\nAnd you need it all to hold a deeper meaning.\nNot just
+  a brief encounter with pleasure and connection.\nIt needs to touch your s
+ oul.\nIt needs to be a prayer that ripples out and beyond.\n\nWelcome to D
+ ance Meets Tantra: Rendezvous.\n\nWhat goes down at DMT: Rendezvous?\n\nWe
+  move through 3 phases over the course of the evening:\n\n1. Infuse the fi
+ eld with trust\, permission\, and attunement.\nPractices to support you in
+  feeling safe and courageous - to own your boundaries\, needs\, and desire
+ s.\n\n2. Deepen the field with intimacy\, eros\, and play.\nRitual space t
+ o welcome your authentic\, vulnerable\, messy\, sexy\, full expression.\n\
+ n3. Dance the field into embodied\, interconnected aliveness.\nBring it al
+ l together in deep\, soulful\, sensual\, intimate dance.\n\nWe close each 
+ container with space to ground\, harvest\, and land the ship.\n\n\nOur int
+ entions for these evening immersions:\n\n1. Provide an entryway for newcom
+ ers into the ever-evolving world of Dance Meets Tantra.\n\n2. Create oppor
+ tunities for folks already inside the DMT field to stay connected to each 
+ other and the work.\n\n3. Drop into dance space that touches every part of
+  us - body\, sex\, heart\, and soul.\n\nNote on Tantra:\nFor us - Tantra i
+ s the practice and art of being fully alive. Our intention with Dance Meet
+ s Tantra is to support people in coming into greater love\, respect and re
+ lationship with themselves\, each other\, and the earth. We believe that d
+ ance\, eros and tantra are fundamental aspects of being alive\, empowered\
+ , and creative - so we invite various explorations in support of liberatin
+ g our creativity and life force.\n\nDance Meets Tantra is a space of:\n\n
+ ໑ Vulnerability: to be fully alive we need to get real. We create safer 
+ spaces to compassionately own and get present to the full range of our emo
+ tions\, fears\, blocks and discomfort.\n\n໑ Permission: to be the full e
+ xpression of ourselves - including our sensual and erotic nature - however
+  that looks.\n\n໑ Safety: boundaries\, consent\, attunement\, and self-r
+ esponsibility are essential and foundational to navigating safer space tog
+ ether.\n\n\nHow do I know if Dance Meets Tantra is for me?\n\n໑ You have
+  read this far and are feeling excitement\n\n໑ You are an experienced ec
+ static dancer and curious to explore more eros and sensuality in your prac
+ tice\n\n໑ You may be experienced with tantra and want to explore how dan
+ ce can enhance your practice in a profoundly beautiful and transformationa
+ l container\n\n໑ You are new to the world of dance of Ecstatic Dance\, o
+ r neo-Tantra and are curious to dive in!\n\n\nDuring our time together\, y
+ ou will have the opportunity to:\n\n໑ Explore eros and sensuality alongs
+ ide and amidst dance with the support and guidance of an attuned and power
+ ful facilitation team.\n\n໑ Foster authentic connections and deep intima
+ cy with self and others.\n\n໑ Unleash your creativity and learn to trust
+  your body's innate wisdom.\n\n໑ Rediscover your vulnerability\, innocen
+ ce and wildness in a space of trust\, permission and play!\n\n໑ Develop 
+ the capacity to take responsibility for your boundaries\, desires and need
+ s\, through self-attunement and clear present moment-based communication.\
+ n\n໑ Discover new pathways to sensual pleasure and expanded states of co
+ nsciousness.\n\n\nThis workshop is open to individuals of all experience l
+ evels\, genders\, and relationship orientations. Whether you are new to Da
+ nce / Ecstatic Dance and Dance Meets Tantra or have previous experience\, 
+ we invite you to come with an open heart and a willingness to explore.\n\n
+ \nAbout Dance Meets Tantra: \nBorn in Boulder\, CO and now traveling aroun
+ d the world\, Dance Meets Tantra bridges the worlds of conscious dance\, t
+ ransformational neo-tantra\, contact improv\, shadow work\, and relational
+  intimacy.\n\nInstructor: Soraya Masi\, Yosef Hayim\,  & LaVina Iyana\n\nP
+ ayment may be required.\n\nPublicly listed\; guest eligibility and registr
+ ation requirements vary. This is not an RSVP.\n\nhttps://share.fitdegree.c
+ om/?r=4254285
+LOCATION:The Attic - Archipelago | 2345 7th Street
+URL:https://share.fitdegree.com/?r=4254285
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:archipelago-4336089@denver-community-event-feeds
+DTSTAMP:20261118T204156Z
+DTSTART:20261124T000000Z
+DTEND:20261124T030000Z
+LAST-MODIFIED:20261116T195726Z
+SUMMARY:Friendsgiving Potluck 
+DESCRIPTION:Event Type: Social\nOpen To: Members & Guests\nTickets: Free fo
+ r Members\, $5 for Guests\, Come hang!\n\nABOUT THE EVENT:\n** SOCIAL **\n
+ \nIn the spirit of gratitude and a whole lotta appreciation for our Archip
+ elago fam\, let's gather over good food\, good conversations and good frie
+ nds. \n\nItems to Bring: \n- Fave dish to share \n- BYOB\n- Friends welcom
+ e!\n\nInstructor: Amanda Tarrell\n\nPayment may be required.\n\nPublicly l
+ isted\; guest eligibility and registration requirements vary. This is not 
+ an RSVP.\n\nhttps://share.fitdegree.com/?r=4336089
+LOCATION:The Attic - Archipelago | 2345 7th Street
+URL:https://share.fitdegree.com/?r=4336089
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:archipelago-4359074@denver-community-event-feeds
+DTSTAMP:20261118T204156Z
+DTSTART:20261201T011500Z
+DTEND:20261201T033000Z
+LAST-MODIFIED:20261110T212942Z
+SUMMARY:Open Mic: A night to share bravely + connect deeply
+DESCRIPTION:Event Type: Social\nOpen To: Members & Ticketed Guests\nTickets
+ : Free for Members\, $20 for Guests\n\nhttps://www.eventbrite.com/e/open-m
+ ic-a-night-to-share-bravely-connect-deeply-tickets-2003715278336?aff=oddtd
+ tcreator\n\nABOUT THE EVENT:\n\nAn in-person open mic experience for coura
+ geous humans to share creative work\, connect\, build community\, receive\
+ , support\, and celebrate.\n\nLiberation Studio and Brave Enough present a
+  casual\, fun night celebrating creative expression\, courage\, culture\, 
+ identity\, and all the things that make us human. If you’ve got somethin
+ g to share\, the spotlight is yours.\n\nBring a song\, story\, poem\, come
+ dy\, dance\, family tradition\, cultural ritual\, work in progress\, hidde
+ n talent\, or something else...passed down to you or dreamed up yesterday.
+  Bring your roots\, history\, tender and meaningful things\, and things th
+ at make you laugh. Share something you’ve practiced for years or try som
+ ething for the first time.\n\nThere’s room for depth and play\, vulnerab
+ ility and celebration\, the sacred and the silly. We don’t know all the 
+ experiences that have shaped one another\, what we carry from our families
+  and cultures\, or which parts of our identities rarely get a voice. This 
+ is a space to bring those forward.\n\nYou don’t need to be polished or p
+ erformance ready. Come practice being seen and heard\, play\, experiment\,
+  take a risk\, be a little awkward\, and try something before you feel com
+ pletely ready. If stepping up to the mic feels like a new edge\, you belon
+ g here.\n\nWould you like to be a contributor and share on stage? If so\, 
+ first register here as a "contributor" on Eventbrite. Then\, sign up here 
+ by 11/20/26 and aim for around five minutes so there’s room for as many 
+ shares as possible.\n\nThe evening will be acoustic\; you’re welcome to 
+ bring your own instrument.\n\nCome to share\, witness\, play\, or practice
+  taking up a little more space. If the stage isn’t calling you\, your en
+ couragement\, curiosity\, energy\, and presence are just as much a part of
+  the evening.\n\n___\n\nYour facilitators: Zannah Campora and Leigh Orne\n
+ \nLeigh Orne is a celebration guide\, creativity coach\, and hype woman wh
+ ose work centers connection: to self\, to others\, and to what wants to be
+  born through you. She creates spaces that are playful\, intentional\, and
+  deeply human.\n\nZannah Campora is a seasoned social entrepreneur who cre
+ ates opportunities for connection & community that nurture inner and colle
+ ctive liberation\, human-centric placemaking\, conscious business\, and co
+ llaboration.\n\nInstructor: Leigh Orne & Zannah Campora\n\nPayment may be 
+ required.\n\nPublicly listed\; guest eligibility and registration requirem
+ ents vary. This is not an RSVP.\n\nhttps://share.fitdegree.com/?r=4359074
+LOCATION:The Attic - Archipelago | 2345 7th Street
+URL:https://share.fitdegree.com/?r=4359074
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:archipelago-4360553@denver-community-event-feeds
+DTSTAMP:20261118T204156Z
+DTSTART:20261202T193000Z
+DTEND:20261202T213000Z
+LAST-MODIFIED:20261110T134457Z
+SUMMARY:CO-INSPIRE
+DESCRIPTION:A free weekly gathering for changemakers\, connectors\, entrepr
+ eneurs\, creatives\, and community-minded humans to COLLABORATE.\n\nWhat i
+ f one day each week you stepped into a space where conversation\, collabor
+ ation\, creativity\, and genuine human connection happened naturally?\n\nC
+ o-Inspiring is a weekly\, open-house gathering designed to make collaborat
+ ion and support more accessible. It's not a networking event nor structure
+ d. It's a shared space where people come together to connect\, exchange id
+ eas\, hear one another\, support one another\, and discover what unfolds. 
+ WE BUILD BRIDGES.\n\nCome for 30 minutes or stay all day. Bring your curio
+ sity\, a friend\, a project you're working on\, your vision\, your laptop\
+ , food or drink—or simply yourself.\n\nWhen\nWednesdays | 12:30 PM – 2
+ :30 PM \nDrop in anytime!\n\nWhere: Archipelago\nWe'll be hanging on the f
+ irst floor\, come in the front door and we will be there to welcome you!\n
+ \nWho It's For\nEveryone is welcome. Every idenity\, background\, industry
+ .\nWhether you're building a business\, community or social justice moveme
+ nt\, exploring a new idea\, between projects AND looking for meaningful co
+ nversations\, collabative approach\, new possibilities... or creating deep
+ er relationships. You belong here.\n\nWhat to Expect\n● A host to greet 
+ you and introduce you to new folks\n● Real conversations about life\n●
+  Co-working and collaboration\n● New friendships\n● Inspiration and fr
+ esh perspectives\n● Space to both contribute and receive\, hear and be h
+ eard\n● A relaxed\, come-and-go atmosphere. No agenda. No pressure. \nSt
+ ay for as little or as long as you'd like.\n● Bring your own food and dr
+ ink!\n● Free Wi-Fi—bring your laptop if you'd like to work\n● Free p
+ arking lot.\n● Open seating on first floor\, tables or couches.\n\nOur I
+ nvitation\nThis experience works because of the people who participate.\n\
+ nCome willing to:\n● Be curious and open.\n● Listen deeply.\n● Respe
+ ct diverse perspectives.\n● Help cultivate the kind of community you'd l
+ ike to be part of.\n\nInvite a friend\, colleague\, client\, mentee\, or n
+ eighbor who would appreciate a more human way to connect.\n\nWant to Help 
+ Host?\nWe're looking for connectors to co-host once a month! Do you enjoy 
+ welcoming people\, making introductions\, and helping others feel at home?
+  If that sounds like you\, send Zannah a message\nat liberationstudio.co@g
+ mail.com\n\nWe will co-create a partnership (think- cross pollinate on soc
+ ial & eventbrite\, you can choose a theme and prompt if you'd like for the
+  group\, and more)\n\nLet's build the kind of community many of us have be
+ en looking for—together.\n\nInstructor: Zannah Campora\n\nPayment may be
+  required.\n\nPublicly listed\; guest eligibility and registration require
+ ments vary. This is not an RSVP.\n\nhttps://share.fitdegree.com/?r=4360553
+LOCATION:First Floor
+URL:https://share.fitdegree.com/?r=4360553
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:archipelago-4254303@denver-community-event-feeds
+DTSTAMP:20261118T204156Z
+DTSTART:20261209T013000Z
+DTEND:20261209T033000Z
+LAST-MODIFIED:20261023T160900Z
+SUMMARY:Coven Crafts: Tarot Workshop & Collage Your Own Tarot Cards
+DESCRIPTION:Tickets are required for this event. \n\nPurchase your ticket h
+ ere: https://www.coffeeandcrystals.com/event-details/coven-crafts-tarot-wo
+ rkshop-collage-your-own-tarot-cards\n\nThis event does not include complim
+ entary member tickets.\n\nInstructor: Coffee &  Crystals\n\nCheck registra
+ tion for access and pricing.\n\nPublicly listed\; guest eligibility and re
+ gistration requirements vary. This is not an RSVP.\n\nhttps://share.fitdeg
+ ree.com/?r=4254303
+LOCATION:The Attic - Archipelago | 2345 7th Street
+URL:https://share.fitdegree.com/?r=4254303
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:archipelago-4367179@denver-community-event-feeds
+DTSTAMP:20261118T204156Z
+DTSTART:20261209T193000Z
+DTEND:20261209T213000Z
+LAST-MODIFIED:20261116T145058Z
+SUMMARY:CO-INSPIRE
+DESCRIPTION:A free weekly gathering for changemakers\, connectors\, entrepr
+ eneurs\, creatives\, and community-minded humans to COLLABORATE.\n\nWhat i
+ f one day each week you stepped into a space where conversation\, collabor
+ ation\, creativity\, and genuine human connection happened naturally?\n\nC
+ o-Inspiring is a weekly\, open-house gathering designed to make collaborat
+ ion and support more accessible. It's not a networking event nor structure
+ d. It's a shared space where people come together to connect\, exchange id
+ eas\, hear one another\, support one another\, and discover what unfolds. 
+ WE BUILD BRIDGES.\n\nCome for 30 minutes or stay all day. Bring your curio
+ sity\, a friend\, a project you're working on\, your vision\, your laptop\
+ , food or drink—or simply yourself.\n\nWhen\nWednesdays | 12:30 PM – 2
+ :30 PM \nDrop in anytime!\n\nWhere: Archipelago\nWe'll be hanging on the f
+ irst floor\, come in the front door and we will be there to welcome you!\n
+ \nWho It's For\nEveryone is welcome. Every idenity\, background\, industry
+ .\nWhether you're building a business\, community or social justice moveme
+ nt\, exploring a new idea\, between projects AND looking for meaningful co
+ nversations\, collabative approach\, new possibilities... or creating deep
+ er relationships. You belong here.\n\nWhat to Expect\n● A host to greet 
+ you and introduce you to new folks\n● Real conversations about life\n●
+  Co-working and collaboration\n● New friendships\n● Inspiration and fr
+ esh perspectives\n● Space to both contribute and receive\, hear and be h
+ eard\n● A relaxed\, come-and-go atmosphere. No agenda. No pressure. \nSt
+ ay for as little or as long as you'd like.\n● Bring your own food and dr
+ ink!\n● Free Wi-Fi—bring your laptop if you'd like to work\n● Free p
+ arking lot.\n● Open seating on first floor\, tables or couches.\n\nOur I
+ nvitation\nThis experience works because of the people who participate.\n\
+ nCome willing to:\n● Be curious and open.\n● Listen deeply.\n● Respe
+ ct diverse perspectives.\n● Help cultivate the kind of community you'd l
+ ike to be part of.\n\nInvite a friend\, colleague\, client\, mentee\, or n
+ eighbor who would appreciate a more human way to connect.\n\nWant to Help 
+ Host?\nWe're looking for connectors to co-host once a month! Do you enjoy 
+ welcoming people\, making introductions\, and helping others feel at home?
+  If that sounds like you\, send Zannah a message\nat liberationstudio.co@g
+ mail.com\n\nWe will co-create a partnership (think- cross pollinate on soc
+ ial & eventbrite\, you can choose a theme and prompt if you'd like for the
+  group\, and more)\n\nLet's build the kind of community many of us have be
+ en looking for—together.\n\nInstructor: Zannah Campora\n\nPayment may be
+  required.\n\nPublicly listed\; guest eligibility and registration require
+ ments vary. This is not an RSVP.\n\nhttps://share.fitdegree.com/?r=4367179
+LOCATION:First Floor
+URL:https://share.fitdegree.com/?r=4367179
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:archipelago-4197285@denver-community-event-feeds
+DTSTAMP:20261118T204156Z
+DTSTART:20261210T010000Z
+DTEND:20261210T041500Z
+LAST-MODIFIED:20261118T001033Z
+SUMMARY:Denver Circling Night
+DESCRIPTION:Event Type: Wellness/Social\nOpen To: Members & Ticketed Guests
+ \nTickets: Free for the first 5 members\, $40 for guests\n\nOnly 5 free me
+ mber spots\, first come first served. Once they're gone\, grab a guest tic
+ ket here: https://coloradoconnectioncollective.com/events\n\nABOUT THE EVE
+ NT:\n\nWhat if you could drop the small talk and experience conversations 
+ that leave you feeling truly seen\, heard\, and understood? What if deep\,
+  meaningful connection was something you could cultivate with anyone?\n\nT
+ his gathering is an opportunity to step into a different way of relating\,
+  one that brings clarity\, presence\, and profound connection. Through Cir
+ cling® and authentic relating exercises\, we’ll slow down\, tune in\, a
+ nd explore what it’s like to be fully ourselves in connection with other
+ s.\n\nWHAT YOU MAY EXPERIENCE:\n• A deeper sense of presence and connect
+ ion in your interactions\n• Conversations that move beyond the surface a
+ nd into something real\n• The power of being fully seen and appreciated 
+ just as you are\n• Insights into your own patterns in relationships\n•
+  A shift in how you experience yourself and others\n\nJoin us every 2nd We
+ dnesday and experience the kind of conversations that leave you feeling mo
+ re alive\, connected\, and deeply understood.\n\nWe’ll be starting at 6:
+ 00 PM\, so we kindly ask that you arrive between 5:50 and 5:55 PM to get s
+ ettled. To honor the experience for everyone\, doors will close at 6:10 PM
+ .\n\nThis is an event facilitated by the Colorado Connection Collective in
+  collaboration with Archipelago. \n\n_\n\nThe term “Circling®” is a r
+ egistered trademark. We\, Mat Weddle and Jake Favor\, have licenses from T
+ he International Circling Federation to use the term\, in accordance with 
+ their guidelines\, in relation to the Circling facilitation we offer. We a
+ re certified through The Circling Institute lineage. You can read about th
+ e unique distinctions between the three lineages\, as well as the standard
+ s of service required of licensees\, on the International Circling Federat
+ ion website.\n\nInstructor: Colorado Connection Collective\n\nPayment may 
+ be required.\n\nPublicly listed\; guest eligibility and registration requi
+ rements vary. This is not an RSVP.\n\nhttps://share.fitdegree.com/?r=41972
+ 85
+LOCATION:The Attic - Archipelago | 2345 7th Street
+URL:https://share.fitdegree.com/?r=4197285
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:archipelago-4360574@denver-community-event-feeds
+DTSTAMP:20261118T204156Z
+DTSTART:20261210T173000Z
+DTEND:20261210T193000Z
+LAST-MODIFIED:20261109T212521Z
+SUMMARY:MatriMind for Entrepreneurs
+DESCRIPTION:Event Type: Wellness/Social\nOpen To: Ticketed Members & Guests
+ \n\nMember Tickets: $30 (only 5 available\, book here)\n\nGuest Tickets: $
+ 40\, purchase on Eventbrite: \nhttps://www.eventbrite.com/e/matrimind-for-
+ business-owners-changemakers-tickets-2004096549729?aff=oddtdtcreator\n\nAB
+ OUT THE EVENT:\n\nMatriMind is a monthly circle for curious\, purpose-driv
+ en business owners exploring collaborative\, conscious ways of doing busin
+ ess.\nMatriMind is a monthly drop-in collaborative mastermind circle for u
+ p to 10 curious\, purpose-driven business owners exploring more conscious\
+ , collaborative\, and regenerative ways of doing business.\nIt’s a wild 
+ time. \n\nWhat if we could build thriving\, profitable businesses while mo
+ ving beyond the patriarchal and extractive systems we’ve inherited and m
+ aking our businesses human-centered\, collective-minded and standing for s
+ ocial justice?\n\nThrough facilitated dialogue\, story sharing\, and colle
+ ctive wisdom\, we support one another in navigating real business challeng
+ es while reimagining what’s possible.\n\nTopics We’ll Explore\nBusines
+ s Growth: Startups\, scaling\, revenue\, taxes\, marketing\, branding\, an
+ d AI Leadership & Collaboration: Communication\, partnerships\, community 
+ building\, and new leadership models\nRethinking Business: Matriarchy\, co
+ nscious capitalism\, and regenerative business practices\n\nInner Liberati
+ on: Deconditioning patriarchy and capitalism\, redefining success\, and al
+ igning business with our values\nCome as you are\, with what you’re buil
+ ding. Whether you’re launching\, growing\, pivoting\, or navigating a ch
+ allenge\, you’ll find fresh perspectives\, meaningful connections\, and 
+ collaborative support.\n\nThe Details\nFormat: Monthly drop-in mastermind\
+ , maximum 10 participants\nWhen: Second Thursdays\, 10:30 AM–12:30 PM\nW
+ here: The Attic at Archipelago\, Denver\nInvestment: $40 per gathering\, $
+ 30 for Arch members or $25 if funds are tight (because…we get it!)\nSpac
+ e is limited! Register through Eventbrite here or Archipelago to claim you
+ r spot.\n\nMeet Your Facilitator\, Zannah Campora\nZannah is a conscious e
+ ntrepreneur\, certified coach\, facilitator\, community builder\, and Real
+ tor passionate about business as a vehicle for social change.\n\nHer exper
+ ience spans coaching\, community-building\, real estate\, hospitality\, ev
+ ent production\, and social entrepreneurship. As the founder of Liberation
+  Studio and co-owner of a wedding venue with her family\, she’s spent ye
+ ars building businesses and communities rooted in connection\, collaborati
+ on\, and purpose.\nHer work explores how we can cultivate more collaborati
+ ve regenerative and human-centered ways of living and working.\n\nWhat Par
+ ticipants Are Saying\n“I’ve been masterminding with Zannah for over a 
+ year\, and I leave every conversation with a deep sense of clarity and ent
+ husiasm for what’s next! Her wide-ranging business experience and genuin
+ e love for identifying opportunities and working through challenges is a g
+ ame changer.” -Leigh\n\n“I have genuinely felt so lit up by yall and r
+ eally have expanded my heart to know I can truly follow my dreams\, so I a
+ m doing the damn thing :)” -Ari\n\n“I’ve felt incredibly resourced b
+ y this group and their wisdom. It’s been such an honor to support each o
+ ther on our journeys of impact. We need so much more support than we could
+  ever imagine to live these big\, brave lives we’re living.” -Melissa\
+ n\nLet’s Reimagine Business Together\nMatriMind is an invitation to grow
+  our businesses\, liberate ourselves from limiting systems\, and practice 
+ more regenerative ways of building.\n\nBecause how we build matters just a
+ s much as what we build. Let’s do it together!\n\nInstructor: Zannah Cam
+ pora\n\nPayment may be required.\n\nPublicly listed\; guest eligibility an
+ d registration requirements vary. This is not an RSVP.\n\nhttps://share.fi
+ tdegree.com/?r=4360574
+LOCATION:The Attic - Archipelago | 2345 7th Street
+URL:https://share.fitdegree.com/?r=4360574
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:archipelago-4309758@denver-community-event-feeds
+DTSTAMP:20261118T204156Z
+DTSTART:20261211T020000Z
+DTEND:20261211T040000Z
+LAST-MODIFIED:20261106T030454Z
+SUMMARY:Conscious Breathwork
+DESCRIPTION:Event Type: Wellness\nOpen to: Members + Ticketed Guests\nTicke
+ t Cost: Free for Members\, $55 for Guests\n\n*Please bring* yoga mat\, eye
+  cover\, blanket\, pillow\, and anything else you need to create a comfort
+ able nest. \n\nABOUT THE EVENT:\n\nWhether you are new to breathwork\, exp
+ erienced\, or somewhere in between\, this workshop is for you! \n\nPotenti
+ al Benefits from Breathwork: \n- Reduce stress and anxiety\n- Optimize and
+  improve your physical state of being\n- Releasing patterns and stories th
+ at no longer serve you\n- Safe way to achieve an altered state of consciou
+ sness\n- Clarity\, peace\, calm\, flow\, love\, and so much more...\n\n\n\
+ nPlease visit: www.amarsi.love/prep for details on how to prepare.\n\nInst
+ ructor: Claudia Nanino\n\nPayment may be required.\n\nPublicly listed\; gu
+ est eligibility and registration requirements vary. This is not an RSVP.\n
+ \nhttps://share.fitdegree.com/?r=4309758
+LOCATION:The Attic - Archipelago | 2345 7th Street
+URL:https://share.fitdegree.com/?r=4309758
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:archipelago-4373891@denver-community-event-feeds
+DTSTAMP:20261118T204156Z
+DTSTART:20261216T003000Z
+DTEND:20261216T020000Z
+LAST-MODIFIED:20261114T011418Z
+SUMMARY:Gift Wrapping Happy Hour 
+DESCRIPTION:Event Type: Social\nOpen To: Members & Guests\nTickets: Free fo
+ r Members & Guests\, Come hang!\n\nABOUT THE EVENT:\n\nWe've officially pu
+ rchased all our of presents for the Archipelago Holiday Gift Drive and now
+  it's time to wrap them! \n\nCome prepared to show off your wrapping skill
+ s\, listen to holiday tunes & sip dranks with friends.\n\nInstructor: Sydn
+ ey Badik\n\nPayment may be required.\n\nPublicly listed\; guest eligibilit
+ y and registration requirements vary. This is not an RSVP.\n\nhttps://shar
+ e.fitdegree.com/?r=4373891
+LOCATION:Conference Room - Archipelago | 2345 7th St.
+URL:https://share.fitdegree.com/?r=4373891
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:archipelago-4373912@denver-community-event-feeds
+DTSTAMP:20261118T204156Z
+DTSTART:20261216T013000Z
+DTEND:20261216T033000Z
+LAST-MODIFIED:20261109T212755Z
+SUMMARY:Archipelago Community Project
+DESCRIPTION:Event Type: Community Wellness/Social\nOpen To: Members Only (t
+ his includes tenants\, members\, community ambassadors\, and past members 
+ who are still connected to the space)\nTickets: Free \n\nABOUT THE EVENT:\
+ n\nArchipelago is a space rich with stories\, relationships\, untapped pos
+ sibilities\, and humans like you! \n\nYou are invited to engage in the new
+  Archipelago Community Project: it is a series of free brainstorming sessi
+ ons to explore ideas and possibilities for Archipelago’s future. This di
+ alogue will include intentional structure and creative prompts to bring fo
+ rth collaborative conversations to help us all imagine and shape the futur
+ e of Archipelago.\n\nOver the next three months\, there will be 4 various 
+ opportunities to sit in a circle with one another in the Attic! \n\nThe mo
+ re you want to be involved\, we encourage you to come to more than one ses
+ sion\, as well as schedule a 1 to 1 with Zannah. If you only want to share
+  your ideas\, try to attend at least one session.\n\nCome share your exper
+ ience of this place and what you hope for it! We’re curious about what
+ ’s possible\, what Archipelago could become\, and how we all want to be 
+ here… together. \n\nBut we need YOU: your voice\, energy\, ideas\, and d
+ reams. What we hear from YOU can help shape the next chapter of Archipelag
+ o. \n\nJoin us at one or more sessions\, it’s free with an RSVP. Please 
+ invite anyone who cares about this space & community! \n\nThursday Nov 19t
+ h | 11am -1pm \nTuesday Dec 15th | 6:30-8:30pm \nThursday Jan 14th | 6:30-
+ 8:30pm \nThursday Jan 28th | 11am-1pm\n\nInstructor: Zannah Campora\n\nChe
+ ck registration for access and pricing.\n\nPublicly listed\; guest eligibi
+ lity and registration requirements vary. This is not an RSVP.\n\nhttps://s
+ hare.fitdegree.com/?r=4373912
+LOCATION:The Attic - Archipelago | 2345 7th Street
+URL:https://share.fitdegree.com/?r=4373912
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:archipelago-4364210@denver-community-event-feeds
+DTSTAMP:20261118T204156Z
+DTSTART:20261216T193000Z
+DTEND:20261216T213000Z
+LAST-MODIFIED:20261102T182143Z
+SUMMARY:CO-INSPIRE
+DESCRIPTION:A free weekly gathering for changemakers\, connectors\, entrepr
+ eneurs\, creatives\, and community-minded humans to COLLABORATE.\n\nWhat i
+ f one day each week you stepped into a space where conversation\, collabor
+ ation\, creativity\, and genuine human connection happened naturally?\n\nC
+ o-Inspiring is a weekly\, open-house gathering designed to make collaborat
+ ion and support more accessible. It's not a networking event nor structure
+ d. It's a shared space where people come together to connect\, exchange id
+ eas\, hear one another\, support one another\, and discover what unfolds. 
+ WE BUILD BRIDGES.\n\nCome for 30 minutes or stay all day. Bring your curio
+ sity\, a friend\, a project you're working on\, your vision\, your laptop\
+ , food or drink—or simply yourself.\n\nWhen\nWednesdays | 12:30 PM – 2
+ :30 PM \nDrop in anytime!\n\nWhere: Archipelago\nWe'll be hanging on the f
+ irst floor\, come in the front door and we will be there to welcome you!\n
+ \nWho It's For\nEveryone is welcome. Every idenity\, background\, industry
+ .\nWhether you're building a business\, community or social justice moveme
+ nt\, exploring a new idea\, between projects AND looking for meaningful co
+ nversations\, collabative approach\, new possibilities... or creating deep
+ er relationships. You belong here.\n\nWhat to Expect\n● A host to greet 
+ you and introduce you to new folks\n● Real conversations about life\n●
+  Co-working and collaboration\n● New friendships\n● Inspiration and fr
+ esh perspectives\n● Space to both contribute and receive\, hear and be h
+ eard\n● A relaxed\, come-and-go atmosphere. No agenda. No pressure. \nSt
+ ay for as little or as long as you'd like.\n● Bring your own food and dr
+ ink!\n● Free Wi-Fi—bring your laptop if you'd like to work\n● Free p
+ arking lot.\n● Open seating on first floor\, tables or couches.\n\nOur I
+ nvitation\nThis experience works because of the people who participate.\n\
+ nCome willing to:\n● Be curious and open.\n● Listen deeply.\n● Respe
+ ct diverse perspectives.\n● Help cultivate the kind of community you'd l
+ ike to be part of.\n\nInvite a friend\, colleague\, client\, mentee\, or n
+ eighbor who would appreciate a more human way to connect.\n\nWant to Help 
+ Host?\nWe're looking for connectors to co-host once a month! Do you enjoy 
+ welcoming people\, making introductions\, and helping others feel at home?
+  If that sounds like you\, send Zannah a message\nat liberationstudio.co@g
+ mail.com\n\nWe will co-create a partnership (think- cross pollinate on soc
+ ial & eventbrite\, you can choose a theme and prompt if you'd like for the
+  group\, and more)\n\nLet's build the kind of community many of us have be
+ en looking for—together.\n\nInstructor: Zannah Campora\n\nPayment may be
+  required.\n\nPublicly listed\; guest eligibility and registration require
+ ments vary. This is not an RSVP.\n\nhttps://share.fitdegree.com/?r=4364210
+LOCATION:First Floor
+URL:https://share.fitdegree.com/?r=4364210
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:archipelago-4344911@denver-community-event-feeds
+DTSTAMP:20261118T204156Z
+DTSTART:20261218T020000Z
+DTEND:20261218T040000Z
+LAST-MODIFIED:20261020T164706Z
+SUMMARY:Soundularity: 360° Healing Music Journey
+DESCRIPTION:Event Type: Wellness\nOpen To: Members & Ticketed Guests\nTicke
+ ts: Free for Members\, $40 for Guests\n\nABOUT THE EVENT:\n\n360° Healing
+  Music Journey\n\nThe 360° Healing Music Journey is an organic and electr
+ onic healing-music concert facilitated by musician and sound healer Tommy 
+ Dill. The experience combines therapeutic 432 Hz frequencies with ancient 
+ sound healing techniques to create a nurturing\, immersive soundscape for 
+ the mind\, body and spirit of the listener. All instruments are tuned to 4
+ 32 Hz instead of the standard 440 Hz\; these are rich\, penetrating freque
+ ncies that are believed to more-precisely represent the geometric and math
+ ematic structure of the universe. \n\nAll instruments are performed live a
+ nd include quartz and Himalayan singing bowls\, synthesizers\, therapy har
+ p\, Native American flute\, shaman drum\, handpan\, guitar\, and more. \n\
+ nThe offering uses a binaural speaker configuration to create an immersive
+ \, mesmerizing listening environment for the participant. The journey typi
+ cally runs around 90 minutes plus a little bit of talking before and after
+ . Nothing is required from the attendee other than to breathe deeply and r
+ eceive the sound with intention. Sound is a natural unifier\, and it is th
+ ought that intentionally directing this sound energy to areas of the body 
+ and mind can promote healing and initiate deep states of consciousness.\n\
+ nInstructor: Tommy Dill Music\n\nPayment may be required.\n\nPublicly list
+ ed\; guest eligibility and registration requirements vary. This is not an 
+ RSVP.\n\nhttps://share.fitdegree.com/?r=4344911
+LOCATION:The Attic - Archipelago | 2345 7th Street
+URL:https://share.fitdegree.com/?r=4344911
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:archipelago-4344914@denver-community-event-feeds
+DTSTAMP:20261118T204156Z
+DTSTART:20261218T020000Z
+DTEND:20261218T040000Z
+LAST-MODIFIED:20261020T164843Z
+SUMMARY:[GUEST TICKETS] Soundularity: 360° Healing Music Journey
+DESCRIPTION:Event Type: Wellness\nOpen To: Members & Ticketed Guests\nTicke
+ ts: Free for Members\, $40 for Guests\n\nABOUT THE EVENT:\n\n360° Healing
+  Music Journey\n\nThe 360° Healing Music Journey is an organic and electr
+ onic healing-music concert facilitated by musician and sound healer Tommy 
+ Dill. The experience combines therapeutic 432 Hz frequencies with ancient 
+ sound healing techniques to create a nurturing\, immersive soundscape for 
+ the mind\, body and spirit of the listener. All instruments are tuned to 4
+ 32 Hz instead of the standard 440 Hz\; these are rich\, penetrating freque
+ ncies that are believed to more-precisely represent the geometric and math
+ ematic structure of the universe. \n\nAll instruments are performed live a
+ nd include quartz and Himalayan singing bowls\, synthesizers\, therapy har
+ p\, Native American flute\, shaman drum\, handpan\, guitar\, and more. \n\
+ nThe offering uses a binaural speaker configuration to create an immersive
+ \, mesmerizing listening environment for the participant. The journey typi
+ cally runs around 90 minutes plus a little bit of talking before and after
+ . Nothing is required from the attendee other than to breathe deeply and r
+ eceive the sound with intention. Sound is a natural unifier\, and it is th
+ ought that intentionally directing this sound energy to areas of the body 
+ and mind can promote healing and initiate deep states of consciousness.\n\
+ nInstructor: Tommy  Dill\n\nPayment may be required.\n\nPublicly listed\; 
+ guest eligibility and registration requirements vary. This is not an RSVP.
+ \n\nhttps://share.fitdegree.com/?r=4344914
+LOCATION:The Attic│2345 7th Street
+URL:https://share.fitdegree.com/?r=4344914
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:archipelago-4367180@denver-community-event-feeds
+DTSTAMP:20261118T204156Z
+DTSTART:20261230T193000Z
+DTEND:20261230T213000Z
+LAST-MODIFIED:20261104T000130Z
+SUMMARY:CO-INSPIRE
+DESCRIPTION:A free weekly gathering for changemakers\, connectors\, entrepr
+ eneurs\, creatives\, and community-minded humans to COLLABORATE.\n\nWhat i
+ f one day each week you stepped into a space where conversation\, collabor
+ ation\, creativity\, and genuine human connection happened naturally?\n\nC
+ o-Inspiring is a weekly\, open-house gathering designed to make collaborat
+ ion and support more accessible. It's not a networking event nor structure
+ d. It's a shared space where people come together to connect\, exchange id
+ eas\, hear one another\, support one another\, and discover what unfolds. 
+ WE BUILD BRIDGES.\n\nCome for 30 minutes or stay all day. Bring your curio
+ sity\, a friend\, a project you're working on\, your vision\, your laptop\
+ , food or drink—or simply yourself.\n\nWhen\nWednesdays | 12:30 PM – 2
+ :30 PM \nDrop in anytime!\n\nWhere: Archipelago\nWe'll be hanging on the f
+ irst floor\, come in the front door and we will be there to welcome you!\n
+ \nWho It's For\nEveryone is welcome. Every idenity\, background\, industry
+ .\nWhether you're building a business\, community or social justice moveme
+ nt\, exploring a new idea\, between projects AND looking for meaningful co
+ nversations\, collabative approach\, new possibilities... or creating deep
+ er relationships. You belong here.\n\nWhat to Expect\n● A host to greet 
+ you and introduce you to new folks\n● Real conversations about life\n●
+  Co-working and collaboration\n● New friendships\n● Inspiration and fr
+ esh perspectives\n● Space to both contribute and receive\, hear and be h
+ eard\n● A relaxed\, come-and-go atmosphere. No agenda. No pressure. \nSt
+ ay for as little or as long as you'd like.\n● Bring your own food and dr
+ ink!\n● Free Wi-Fi—bring your laptop if you'd like to work\n● Free p
+ arking lot.\n● Open seating on first floor\, tables or couches.\n\nOur I
+ nvitation\nThis experience works because of the people who participate.\n\
+ nCome willing to:\n● Be curious and open.\n● Listen deeply.\n● Respe
+ ct diverse perspectives.\n● Help cultivate the kind of community you'd l
+ ike to be part of.\n\nInvite a friend\, colleague\, client\, mentee\, or n
+ eighbor who would appreciate a more human way to connect.\n\nWant to Help 
+ Host?\nWe're looking for connectors to co-host once a month! Do you enjoy 
+ welcoming people\, making introductions\, and helping others feel at home?
+  If that sounds like you\, send Zannah a message\nat liberationstudio.co@g
+ mail.com\n\nWe will co-create a partnership (think- cross pollinate on soc
+ ial & eventbrite\, you can choose a theme and prompt if you'd like for the
+  group\, and more)\n\nLet's build the kind of community many of us have be
+ en looking for—together.\n\nInstructor: Zannah Campora\n\nPayment may be
+  required.\n\nPublicly listed\; guest eligibility and registration require
+ ments vary. This is not an RSVP.\n\nhttps://share.fitdegree.com/?r=4367180
+LOCATION:First Floor
+URL:https://share.fitdegree.com/?r=4367180
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:archipelago-4197653@denver-community-event-feeds
+DTSTAMP:20261118T204156Z
+DTSTART:20270103T200000Z
+DTEND:20270103T213000Z
+LAST-MODIFIED:20260720T223956Z
+SUMMARY:The Balanced Soul Strategy: Build Your Own Wheel
+DESCRIPTION:Event Type: Wellness\nOpen To: Members & Ticketed Guests\nTicke
+ ts: Free for Members\, $25 for Guests\n\nABOUT THE EVENT:\n\nNew year\, no
+  resolutions required. Together we map your own Soul Wheel — all eight a
+ reas of your life\, where each one honestly is\, and where you'd like it t
+ o be. You leave with your wheel on paper and a direction that's actually y
+ ours\, not borrowed from someone else's January. This is the New Year inte
+ gration session — a pass across all eight areas rather than just one.\n_
+ \n\nEach 90-minute session stands alone — come to one\, or work through 
+ the whole wheel. We pair honest self-assessment on one area of life with s
+ imple guided breathing — a direct\, practical way to work with your nerv
+ ous system\, which is where change actually sticks — plus a settling med
+ itation and optional sharing. \n\nNo experience needed\; mats and blankets
+  provided — just wear comfortable clothes and bring a pen and a journal.
+  If you're pregnant or managing a heart condition\, epilepsy\, or a recent
+  surgery\, mention it when you arrive: every practice has a\ngentle altern
+ ative.\n\nInstructor: Sara Christine\n\nPayment may be required.\n\nPublic
+ ly listed\; guest eligibility and registration requirements vary. This is 
+ not an RSVP.\n\nhttps://share.fitdegree.com/?r=4197653
+LOCATION:The Attic - Archipelago | 2345 7th Street
+URL:https://share.fitdegree.com/?r=4197653
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:archipelago-4360585@denver-community-event-feeds
+DTSTAMP:20261118T204156Z
+DTSTART:20270106T193000Z
+DTEND:20270106T213000Z
+LAST-MODIFIED:20261030T174452Z
+SUMMARY:CO-INSPIRE
+DESCRIPTION:A free weekly gathering for changemakers\, connectors\, entrepr
+ eneurs\, creatives\, and community-minded humans to COLLABORATE.\n\nWhat i
+ f one day each week you stepped into a space where conversation\, collabor
+ ation\, creativity\, and genuine human connection happened naturally?\n\nC
+ o-Inspiring is a weekly\, open-house gathering designed to make collaborat
+ ion and support more accessible. It's not a networking event nor structure
+ d. It's a shared space where people come together to connect\, exchange id
+ eas\, hear one another\, support one another\, and discover what unfolds. 
+ WE BUILD BRIDGES.\n\nCome for 30 minutes or stay all day. Bring your curio
+ sity\, a friend\, a project you're working on\, your vision\, your laptop\
+ , food or drink—or simply yourself.\n\nWhen\nWednesdays | 12:30 PM – 2
+ :30 PM \nDrop in anytime!\n\nWhere: Archipelago\nWe'll be hanging on the f
+ irst floor\, come in the front door and we will be there to welcome you!\n
+ \nWho It's For\nEveryone is welcome. Every idenity\, background\, industry
+ .\nWhether you're building a business\, community or social justice moveme
+ nt\, exploring a new idea\, between projects AND looking for meaningful co
+ nversations\, collabative approach\, new possibilities... or creating deep
+ er relationships. You belong here.\n\nWhat to Expect\n● A host to greet 
+ you and introduce you to new folks\n● Real conversations about life\n●
+  Co-working and collaboration\n● New friendships\n● Inspiration and fr
+ esh perspectives\n● Space to both contribute and receive\, hear and be h
+ eard\n● A relaxed\, come-and-go atmosphere. No agenda. No pressure. \nSt
+ ay for as little or as long as you'd like.\n● Bring your own food and dr
+ ink!\n● Free Wi-Fi—bring your laptop if you'd like to work\n● Free p
+ arking lot.\n● Open seating on first floor\, tables or couches.\n\nOur I
+ nvitation\nThis experience works because of the people who participate.\n\
+ nCome willing to:\n● Be curious and open.\n● Listen deeply.\n● Respe
+ ct diverse perspectives.\n● Help cultivate the kind of community you'd l
+ ike to be part of.\n\nInvite a friend\, colleague\, client\, mentee\, or n
+ eighbor who would appreciate a more human way to connect.\n\nWant to Help 
+ Host?\nWe're looking for connectors to co-host once a month! Do you enjoy 
+ welcoming people\, making introductions\, and helping others feel at home?
+  If that sounds like you\, send Zannah a message\nat liberationstudio.co@g
+ mail.com\n\nWe will co-create a partnership (think- cross pollinate on soc
+ ial & eventbrite\, you can choose a theme and prompt if you'd like for the
+  group\, and more)\n\nLet's build the kind of community many of us have be
+ en looking for—together.\n\nInstructor: Zannah Campora\n\nPayment may be
+  required.\n\nPublicly listed\; guest eligibility and registration require
+ ments vary. This is not an RSVP.\n\nhttps://share.fitdegree.com/?r=4360585
+LOCATION:The Attic - Archipelago | 2345 7th Street
+URL:https://share.fitdegree.com/?r=4360585
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:archipelago-4369956@denver-community-event-feeds
+DTSTAMP:20261118T204156Z
+DTSTART:20270110T010000Z
+DTEND:20270110T050000Z
+LAST-MODIFIED:20261106T030534Z
+SUMMARY:Dance Meets Tantra: Rendezvous
+DESCRIPTION:Event Type: Wellness/Educational\nOpen To: Members & Ticketed G
+ uests\nTickets: \nFree for 3 Members\, for Guests\, purchase tickets here:
+ \nhttps://www.tickettailor.com/events/yosefhayim/2459660\n\nABOUT THE EVEN
+ T:\n\nWhat happens when dance\, eros\, intimacy\, and ritual all meet in o
+ ne space?\n\nYou live for dance spaces where your full\, raw\, unfiltered 
+ expression is not only welcomed\, but celebrated.\n\nBut\, you don't just 
+ want to dance alone the whole time.\nYou want to be deeply met.\nNot just 
+ through physical contact - but to be truly seen\, held\, and understood.\n
+ \nYou long for a dance floor with enough attunement\, trust\, and permissi
+ on to allow your beautiful erotic nature to be felt and expressed.\nTo slo
+ w down and feel your center.\nTo let the music touch every part of you.\nT
+ o unapologetically shake dat ass and allow eros to pulse through every cel
+ l in your body.\n\nAnd you need it all to hold a deeper meaning.\nNot just
+  a brief encounter with pleasure and connection.\nIt needs to touch your s
+ oul.\nIt needs to be a prayer that ripples out and beyond.\n\nWelcome to D
+ ance Meets Tantra: Rendezvous.\n\nWhat goes down at DMT: Rendezvous?\n\nWe
+  move through 3 phases over the course of the evening:\n\n1. Infuse the fi
+ eld with trust\, permission\, and attunement.\nPractices to support you in
+  feeling safe and courageous - to own your boundaries\, needs\, and desire
+ s.\n\n2. Deepen the field with intimacy\, eros\, and play.\nRitual space t
+ o welcome your authentic\, vulnerable\, messy\, sexy\, full expression.\n\
+ n3. Dance the field into embodied\, interconnected aliveness.\nBring it al
+ l together in deep\, soulful\, sensual\, intimate dance.\n\nWe close each 
+ container with space to ground\, harvest\, and land the ship.\n\n\nOur int
+ entions for these evening immersions:\n\n1. Provide an entryway for newcom
+ ers into the ever-evolving world of Dance Meets Tantra.\n\n2. Create oppor
+ tunities for folks already inside the DMT field to stay connected to each 
+ other and the work.\n\n3. Drop into dance space that touches every part of
+  us - body\, sex\, heart\, and soul.\n\nNote on Tantra:\nFor us - Tantra i
+ s the practice and art of being fully alive. Our intention with Dance Meet
+ s Tantra is to support people in coming into greater love\, respect and re
+ lationship with themselves\, each other\, and the earth. We believe that d
+ ance\, eros and tantra are fundamental aspects of being alive\, empowered\
+ , and creative - so we invite various explorations in support of liberatin
+ g our creativity and life force.\n\nDance Meets Tantra is a space of:\n\n
+ ໑ Vulnerability: to be fully alive we need to get real. We create safer 
+ spaces to compassionately own and get present to the full range of our emo
+ tions\, fears\, blocks and discomfort.\n\n໑ Permission: to be the full e
+ xpression of ourselves - including our sensual and erotic nature - however
+  that looks.\n\n໑ Safety: boundaries\, consent\, attunement\, and self-r
+ esponsibility are essential and foundational to navigating safer space tog
+ ether.\n\n\nHow do I know if Dance Meets Tantra is for me?\n\n໑ You have
+  read this far and are feeling excitement\n\n໑ You are an experienced ec
+ static dancer and curious to explore more eros and sensuality in your prac
+ tice\n\n໑ You may be experienced with tantra and want to explore how dan
+ ce can enhance your practice in a profoundly beautiful and transformationa
+ l container\n\n໑ You are new to the world of dance of Ecstatic Dance\, o
+ r neo-Tantra and are curious to dive in!\n\n\nDuring our time together\, y
+ ou will have the opportunity to:\n\n໑ Explore eros and sensuality alongs
+ ide and amidst dance with the support and guidance of an attuned and power
+ ful facilitation team.\n\n໑ Foster authentic connections and deep intima
+ cy with self and others.\n\n໑ Unleash your creativity and learn to trust
+  your body's innate wisdom.\n\n໑ Rediscover your vulnerability\, innocen
+ ce and wildness in a space of trust\, permission and play!\n\n໑ Develop 
+ the capacity to take responsibility for your boundaries\, desires and need
+ s\, through self-attunement and clear present moment-based communication.\
+ n\n໑ Discover new pathways to sensual pleasure and expanded states of co
+ nsciousness.\n\n\nThis workshop is open to individuals of all experience l
+ evels\, genders\, and relationship orientations. Whether you are new to Da
+ nce / Ecstatic Dance and Dance Meets Tantra or have previous experience\, 
+ we invite you to come with an open heart and a willingness to explore.\n\n
+ \nAbout Dance Meets Tantra: \nBorn in Boulder\, CO and now traveling aroun
+ d the world\, Dance Meets Tantra bridges the worlds of conscious dance\, t
+ ransformational neo-tantra\, contact improv\, shadow work\, and relational
+  intimacy.\n\nInstructor: Soraya Masi\, Yosef Hayim\,  & LaVina Iyana\n\nP
+ ayment may be required.\n\nPublicly listed\; guest eligibility and registr
+ ation requirements vary. This is not an RSVP.\n\nhttps://share.fitdegree.c
+ om/?r=4369956
+LOCATION:The Attic - Archipelago | 2345 7th Street
+URL:https://share.fitdegree.com/?r=4369956
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:archipelago-4360586@denver-community-event-feeds
+DTSTAMP:20261118T204156Z
+DTSTART:20270113T193000Z
+DTEND:20270113T213000Z
+LAST-MODIFIED:20261116T152404Z
+SUMMARY:CO-INSPIRE
+DESCRIPTION:A free weekly gathering for changemakers\, connectors\, entrepr
+ eneurs\, creatives\, and community-minded humans to COLLABORATE.\n\nWhat i
+ f one day each week you stepped into a space where conversation\, collabor
+ ation\, creativity\, and genuine human connection happened naturally?\n\nC
+ o-Inspiring is a weekly\, open-house gathering designed to make collaborat
+ ion and support more accessible. It's not a networking event nor structure
+ d. It's a shared space where people come together to connect\, exchange id
+ eas\, hear one another\, support one another\, and discover what unfolds. 
+ WE BUILD BRIDGES.\n\nCome for 30 minutes or stay all day. Bring your curio
+ sity\, a friend\, a project you're working on\, your vision\, your laptop\
+ , food or drink—or simply yourself.\n\nWhen\nWednesdays | 12:30 PM – 2
+ :30 PM \nDrop in anytime!\n\nWhere: Archipelago\nWe'll be hanging on the f
+ irst floor\, come in the front door and we will be there to welcome you!\n
+ \nWho It's For\nEveryone is welcome. Every idenity\, background\, industry
+ .\nWhether you're building a business\, community or social justice moveme
+ nt\, exploring a new idea\, between projects AND looking for meaningful co
+ nversations\, collabative approach\, new possibilities... or creating deep
+ er relationships. You belong here.\n\nWhat to Expect\n● A host to greet 
+ you and introduce you to new folks\n● Real conversations about life\n●
+  Co-working and collaboration\n● New friendships\n● Inspiration and fr
+ esh perspectives\n● Space to both contribute and receive\, hear and be h
+ eard\n● A relaxed\, come-and-go atmosphere. No agenda. No pressure. \nSt
+ ay for as little or as long as you'd like.\n● Bring your own food and dr
+ ink!\n● Free Wi-Fi—bring your laptop if you'd like to work\n● Free p
+ arking lot.\n● Open seating on first floor\, tables or couches.\n\nOur I
+ nvitation\nThis experience works because of the people who participate.\n\
+ nCome willing to:\n● Be curious and open.\n● Listen deeply.\n● Respe
+ ct diverse perspectives.\n● Help cultivate the kind of community you'd l
+ ike to be part of.\n\nInvite a friend\, colleague\, client\, mentee\, or n
+ eighbor who would appreciate a more human way to connect.\n\nWant to Help 
+ Host?\nWe're looking for connectors to co-host once a month! Do you enjoy 
+ welcoming people\, making introductions\, and helping others feel at home?
+  If that sounds like you\, send Zannah a message\nat liberationstudio.co@g
+ mail.com\n\nWe will co-create a partnership (think- cross pollinate on soc
+ ial & eventbrite\, you can choose a theme and prompt if you'd like for the
+  group\, and more)\n\nLet's build the kind of community many of us have be
+ en looking for—together.\n\nInstructor: Zannah Campora\n\nPayment may be
+  required.\n\nPublicly listed\; guest eligibility and registration require
+ ments vary. This is not an RSVP.\n\nhttps://share.fitdegree.com/?r=4360586
+LOCATION:The Attic - Archipelago | 2345 7th Street
+URL:https://share.fitdegree.com/?r=4360586
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:archipelago-4197286@denver-community-event-feeds
+DTSTAMP:20261118T204156Z
+DTSTART:20270114T010000Z
+DTEND:20270114T041500Z
+LAST-MODIFIED:20261011T022657Z
+SUMMARY:Denver Circling Night
+DESCRIPTION:Event Type: Wellness/Social\nOpen To: Members & Ticketed Guests
+ \nTickets: Free for the first 5 members\, $40 for guests\n\nOnly 5 free me
+ mber spots\, first come first served. Once they're gone\, grab a guest tic
+ ket here: https://coloradoconnectioncollective.com/events\n\nABOUT THE EVE
+ NT:\n\nWhat if you could drop the small talk and experience conversations 
+ that leave you feeling truly seen\, heard\, and understood? What if deep\,
+  meaningful connection was something you could cultivate with anyone?\n\nT
+ his gathering is an opportunity to step into a different way of relating\,
+  one that brings clarity\, presence\, and profound connection. Through Cir
+ cling® and authentic relating exercises\, we’ll slow down\, tune in\, a
+ nd explore what it’s like to be fully ourselves in connection with other
+ s.\n\nWHAT YOU MAY EXPERIENCE:\n• A deeper sense of presence and connect
+ ion in your interactions\n• Conversations that move beyond the surface a
+ nd into something real\n• The power of being fully seen and appreciated 
+ just as you are\n• Insights into your own patterns in relationships\n•
+  A shift in how you experience yourself and others\n\nJoin us every 2nd We
+ dnesday and experience the kind of conversations that leave you feeling mo
+ re alive\, connected\, and deeply understood.\n\nWe’ll be starting at 6:
+ 00 PM\, so we kindly ask that you arrive between 5:50 and 5:55 PM to get s
+ ettled. To honor the experience for everyone\, doors will close at 6:10 PM
+ .\n\nThis is an event facilitated by the Colorado Connection Collective in
+  collaboration with Archipelago. \n\n_\n\nThe term “Circling®” is a r
+ egistered trademark. We\, Mat Weddle and Jake Favor\, have licenses from T
+ he International Circling Federation to use the term\, in accordance with 
+ their guidelines\, in relation to the Circling facilitation we offer. We a
+ re certified through The Circling Institute lineage. You can read about th
+ e unique distinctions between the three lineages\, as well as the standard
+ s of service required of licensees\, on the International Circling Federat
+ ion website.\n\nInstructor: Colorado Connection Collective\n\nPayment may 
+ be required.\n\nPublicly listed\; guest eligibility and registration requi
+ rements vary. This is not an RSVP.\n\nhttps://share.fitdegree.com/?r=41972
+ 86
+LOCATION:The Attic - Archipelago | 2345 7th Street
+URL:https://share.fitdegree.com/?r=4197286
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:archipelago-4360575@denver-community-event-feeds
+DTSTAMP:20261118T204156Z
+DTSTART:20270114T173000Z
+DTEND:20270114T193000Z
+LAST-MODIFIED:20261116T152541Z
+SUMMARY:MatriMind for Entrepreneurs
+DESCRIPTION:Event Type: Wellness/Social\nOpen To: Ticketed Members & Guests
+ \n\nMember Tickets: $30 (only 5 available\, book here)\n\nGuest Tickets: $
+ 40\, purchase on Eventbrite: \nhttps://www.eventbrite.com/e/matrimind-for-
+ business-owners-changemakers-tickets-2004096549729?aff=oddtdtcreator\n\nAB
+ OUT THE EVENT:\n\nMatriMind is a monthly circle for curious\, purpose-driv
+ en business owners exploring collaborative\, conscious ways of doing busin
+ ess.\nMatriMind is a monthly drop-in collaborative mastermind circle for u
+ p to 10 curious\, purpose-driven business owners exploring more conscious\
+ , collaborative\, and regenerative ways of doing business.\nIt’s a wild 
+ time. \n\nWhat if we could build thriving\, profitable businesses while mo
+ ving beyond the patriarchal and extractive systems we’ve inherited and m
+ aking our businesses human-centered\, collective-minded and standing for s
+ ocial justice?\n\nThrough facilitated dialogue\, story sharing\, and colle
+ ctive wisdom\, we support one another in navigating real business challeng
+ es while reimagining what’s possible.\n\nTopics We’ll Explore\nBusines
+ s Growth: Startups\, scaling\, revenue\, taxes\, marketing\, branding\, an
+ d AI Leadership & Collaboration: Communication\, partnerships\, community 
+ building\, and new leadership models\nRethinking Business: Matriarchy\, co
+ nscious capitalism\, and regenerative business practices\n\nInner Liberati
+ on: Deconditioning patriarchy and capitalism\, redefining success\, and al
+ igning business with our values\nCome as you are\, with what you’re buil
+ ding. Whether you’re launching\, growing\, pivoting\, or navigating a ch
+ allenge\, you’ll find fresh perspectives\, meaningful connections\, and 
+ collaborative support.\n\nThe Details\nFormat: Monthly drop-in mastermind\
+ , maximum 10 participants\nWhen: Second Thursdays\, 10:30 AM–12:30 PM\nW
+ here: The Attic at Archipelago\, Denver\nInvestment: $40 per gathering\, $
+ 30 for Arch members or $25 if funds are tight (because…we get it!)\nSpac
+ e is limited! Register through Eventbrite here or Archipelago to claim you
+ r spot.\n\nMeet Your Facilitator\, Zannah Campora\nZannah is a conscious e
+ ntrepreneur\, certified coach\, facilitator\, community builder\, and Real
+ tor passionate about business as a vehicle for social change.\n\nHer exper
+ ience spans coaching\, community-building\, real estate\, hospitality\, ev
+ ent production\, and social entrepreneurship. As the founder of Liberation
+  Studio and co-owner of a wedding venue with her family\, she’s spent ye
+ ars building businesses and communities rooted in connection\, collaborati
+ on\, and purpose.\nHer work explores how we can cultivate more collaborati
+ ve regenerative and human-centered ways of living and working.\n\nWhat Par
+ ticipants Are Saying\n“I’ve been masterminding with Zannah for over a 
+ year\, and I leave every conversation with a deep sense of clarity and ent
+ husiasm for what’s next! Her wide-ranging business experience and genuin
+ e love for identifying opportunities and working through challenges is a g
+ ame changer.” -Leigh\n\n“I have genuinely felt so lit up by yall and r
+ eally have expanded my heart to know I can truly follow my dreams\, so I a
+ m doing the damn thing :)” -Ari\n\n“I’ve felt incredibly resourced b
+ y this group and their wisdom. It’s been such an honor to support each o
+ ther on our journeys of impact. We need so much more support than we could
+  ever imagine to live these big\, brave lives we’re living.” -Melissa\
+ n\nLet’s Reimagine Business Together\nMatriMind is an invitation to grow
+  our businesses\, liberate ourselves from limiting systems\, and practice 
+ more regenerative ways of building.\n\nBecause how we build matters just a
+ s much as what we build. Let’s do it together!\n\nInstructor: Zannah Cam
+ pora\n\nPayment may be required.\n\nPublicly listed\; guest eligibility an
+ d registration requirements vary. This is not an RSVP.\n\nhttps://share.fi
+ tdegree.com/?r=4360575
+LOCATION:The Attic - Archipelago | 2345 7th Street
+URL:https://share.fitdegree.com/?r=4360575
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:archipelago-4373918@denver-community-event-feeds
+DTSTAMP:20261118T204156Z
+DTSTART:20270115T013000Z
+DTEND:20270115T033000Z
+LAST-MODIFIED:20261116T152605Z
+SUMMARY:Archipelago Community Project
+DESCRIPTION:Event Type: Community Wellness/Social\nOpen To: Members Only (t
+ his includes tenants\, members\, community ambassadors\, and past members 
+ who are still connected to the space)\nTickets: Free \n\nABOUT THE EVENT:\
+ n\nArchipelago is a space rich with stories\, relationships\, untapped pos
+ sibilities\, and humans like you! \n\nYou are invited to engage in the new
+  Archipelago Community Project: it is a series of free brainstorming sessi
+ ons to explore ideas and possibilities for Archipelago’s future. This di
+ alogue will include intentional structure and creative prompts to bring fo
+ rth collaborative conversations to help us all imagine and shape the futur
+ e of Archipelago.\n\nOver the next three months\, there will be 4 various 
+ opportunities to sit in a circle with one another in the Attic! \n\nThe mo
+ re you want to be involved\, we encourage you to come to more than one ses
+ sion\, as well as schedule a 1 to 1 with Zannah. If you only want to share
+  your ideas\, try to attend at least one session.\n\nCome share your exper
+ ience of this place and what you hope for it! We’re curious about what
+ ’s possible\, what Archipelago could become\, and how we all want to be 
+ here… together. \n\nBut we need YOU: your voice\, energy\, ideas\, and d
+ reams. What we hear from YOU can help shape the next chapter of Archipelag
+ o. \n\nJoin us at one or more sessions\, it’s free with an RSVP. Please 
+ invite anyone who cares about this space & community! \n\nThursday Nov 19t
+ h | 11am -1pm \nTuesday Dec 15th | 6:30-8:30pm \nThursday Jan 14th | 6:30-
+ 8:30pm \nThursday Jan 28th | 11am-1pm\n\nInstructor: Zannah Campora\n\nChe
+ ck registration for access and pricing.\n\nPublicly listed\; guest eligibi
+ lity and registration requirements vary. This is not an RSVP.\n\nhttps://s
+ hare.fitdegree.com/?r=4373918
+LOCATION:The Attic - Archipelago | 2345 7th Street
+URL:https://share.fitdegree.com/?r=4373918
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:archipelago-4197654@denver-community-event-feeds
+DTSTAMP:20261118T204156Z
+DTSTART:20270117T200000Z
+DTEND:20270117T213000Z
+LAST-MODIFIED:20260720T224345Z
+SUMMARY:The Balanced Soul Strategy: The Plan for Failure
+DESCRIPTION:Event Type: Wellness\nOpen To: Members & Ticketed Guests\nTicke
+ ts: Free for Members\, $25 for Guests\n\nABOUT THE EVENT:\n\nMid-January 
+ — right about when resolutions slip. Perfect timing\, because falling of
+ f was always part of the plan. Research on habits agrees: the people who k
+ eep going aren't the ones who never miss\, they're the ones with a plan fo
+ r the days they do. This session builds yours — so falling off never bec
+ omes giving up. Nothing bad or wrong about it. This is the Plan for Failur
+ e session — what keeps all eight areas moving when motivation dips.\n\n_
+ \n\nEach 90-minute session stands alone — come to one\, or work through 
+ the whole wheel. We pair honest self-assessment on one area of life with s
+ imple guided breathing — a direct\, practical way to work with your nerv
+ ous system\, which is where change actually sticks — plus a settling med
+ itation and optional sharing. \n\nNo experience needed\; mats and blankets
+  provided — just wear comfortable clothes and bring a pen and a journal.
+  If you're pregnant or managing a heart condition\, epilepsy\, or a recent
+  surgery\, mention it when you arrive: every practice has a\ngentle altern
+ ative.\n\nInstructor: Sara Christine\n\nPayment may be required.\n\nPublic
+ ly listed\; guest eligibility and registration requirements vary. This is 
+ not an RSVP.\n\nhttps://share.fitdegree.com/?r=4197654
+LOCATION:The Attic - Archipelago | 2345 7th Street
+URL:https://share.fitdegree.com/?r=4197654
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:archipelago-4360587@denver-community-event-feeds
+DTSTAMP:20261118T204156Z
+DTSTART:20270120T193000Z
+DTEND:20270120T213000Z
+LAST-MODIFIED:20261030T174452Z
+SUMMARY:CO-INSPIRE
+DESCRIPTION:A free weekly gathering for changemakers\, connectors\, entrepr
+ eneurs\, creatives\, and community-minded humans to COLLABORATE.\n\nWhat i
+ f one day each week you stepped into a space where conversation\, collabor
+ ation\, creativity\, and genuine human connection happened naturally?\n\nC
+ o-Inspiring is a weekly\, open-house gathering designed to make collaborat
+ ion and support more accessible. It's not a networking event nor structure
+ d. It's a shared space where people come together to connect\, exchange id
+ eas\, hear one another\, support one another\, and discover what unfolds. 
+ WE BUILD BRIDGES.\n\nCome for 30 minutes or stay all day. Bring your curio
+ sity\, a friend\, a project you're working on\, your vision\, your laptop\
+ , food or drink—or simply yourself.\n\nWhen\nWednesdays | 12:30 PM – 2
+ :30 PM \nDrop in anytime!\n\nWhere: Archipelago\nWe'll be hanging on the f
+ irst floor\, come in the front door and we will be there to welcome you!\n
+ \nWho It's For\nEveryone is welcome. Every idenity\, background\, industry
+ .\nWhether you're building a business\, community or social justice moveme
+ nt\, exploring a new idea\, between projects AND looking for meaningful co
+ nversations\, collabative approach\, new possibilities... or creating deep
+ er relationships. You belong here.\n\nWhat to Expect\n● A host to greet 
+ you and introduce you to new folks\n● Real conversations about life\n●
+  Co-working and collaboration\n● New friendships\n● Inspiration and fr
+ esh perspectives\n● Space to both contribute and receive\, hear and be h
+ eard\n● A relaxed\, come-and-go atmosphere. No agenda. No pressure. \nSt
+ ay for as little or as long as you'd like.\n● Bring your own food and dr
+ ink!\n● Free Wi-Fi—bring your laptop if you'd like to work\n● Free p
+ arking lot.\n● Open seating on first floor\, tables or couches.\n\nOur I
+ nvitation\nThis experience works because of the people who participate.\n\
+ nCome willing to:\n● Be curious and open.\n● Listen deeply.\n● Respe
+ ct diverse perspectives.\n● Help cultivate the kind of community you'd l
+ ike to be part of.\n\nInvite a friend\, colleague\, client\, mentee\, or n
+ eighbor who would appreciate a more human way to connect.\n\nWant to Help 
+ Host?\nWe're looking for connectors to co-host once a month! Do you enjoy 
+ welcoming people\, making introductions\, and helping others feel at home?
+  If that sounds like you\, send Zannah a message\nat liberationstudio.co@g
+ mail.com\n\nWe will co-create a partnership (think- cross pollinate on soc
+ ial & eventbrite\, you can choose a theme and prompt if you'd like for the
+  group\, and more)\n\nLet's build the kind of community many of us have be
+ en looking for—together.\n\nInstructor: Zannah Campora\n\nPayment may be
+  required.\n\nPublicly listed\; guest eligibility and registration require
+ ments vary. This is not an RSVP.\n\nhttps://share.fitdegree.com/?r=4360587
+LOCATION:The Attic - Archipelago | 2345 7th Street
+URL:https://share.fitdegree.com/?r=4360587
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:archipelago-4384291@denver-community-event-feeds
+DTSTAMP:20261118T204156Z
+DTSTART:20270122T020000Z
+DTEND:20270122T040000Z
+LAST-MODIFIED:20261116T182717Z
+SUMMARY:[GUEST TICKETS] Soundularity presents: Gamma Theta Electronic Sound
+ bath
+DESCRIPTION:Event Type: Wellness\nOpen To: Members & Ticketed Guests\nTicke
+ ts: Free for Members\, $40 for Guests\n\nABOUT THE EVENT:\n\nParticipants 
+ will receive brainwave-entraining sound frequencies engulfed in a tranquil
+  432Hz soundbath. Using analog synthesizers\, Binaural and Bilateral beats
+  are activated to slow brainwave patterns to a calming\, meditative state 
+ known as Theta. Electronic synthesizers are then layered to create lush dr
+ eamscapes to open the heart of the listener\, guiding them into the blissf
+ ul\, performance-enhancing state known as Gamma. Research shows that resid
+ ing in these brain states offer several therapeutic benefits including red
+ uced stress and anxiety\, relaxed nervous system\, and improved cognitive 
+ functioning/productivity.\n\n** Please bring a mat\, blankets/pillow\, eye
+  mask\, and anything that will you make you feel comfortable. **\n\nInstru
+ ctor: Tommy  Dill\n\nPayment may be required.\n\nPublicly listed\; guest e
+ ligibility and registration requirements vary. This is not an RSVP.\n\nhtt
+ ps://share.fitdegree.com/?r=4384291
+LOCATION:The Attic - Archipelago | 2345 7th Street
+URL:https://share.fitdegree.com/?r=4384291
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:archipelago-4384295@denver-community-event-feeds
+DTSTAMP:20261118T204156Z
+DTSTART:20270122T020000Z
+DTEND:20270122T040000Z
+LAST-MODIFIED:20261116T182954Z
+SUMMARY:Soundularity presents: Gamma Theta Electronic Soundbath
+DESCRIPTION:Event Type: Wellness\nOpen To: Members & Ticketed Guests\nTicke
+ ts: Free for Members\, $40 for Guests\n\nABOUT THE EVENT:\n\nParticipants 
+ will receive brainwave-entraining sound frequencies engulfed in a tranquil
+  432Hz soundbath. Using analog synthesizers\, Binaural and Bilateral beats
+  are activated to slow brainwave patterns to a calming\, meditative state 
+ known as Theta. Electronic synthesizers are then layered to create lush dr
+ eamscapes to open the heart of the listener\, guiding them into the blissf
+ ul\, performance-enhancing state known as Gamma. Research shows that resid
+ ing in these brain states offer several therapeutic benefits including red
+ uced stress and anxiety\, relaxed nervous system\, and improved cognitive 
+ functioning/productivity.\n\n** Please bring a mat\, blankets/pillow\, eye
+  mask\, and anything that will you make you feel comfortable. **\n\nInstru
+ ctor: Tommy Dill Music\n\nPayment may be required.\n\nPublicly listed\; gu
+ est eligibility and registration requirements vary. This is not an RSVP.\n
+ \nhttps://share.fitdegree.com/?r=4384295
+LOCATION:The Attic│2345 7th Street
+URL:https://share.fitdegree.com/?r=4384295
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:archipelago-4360588@denver-community-event-feeds
+DTSTAMP:20261118T204156Z
+DTSTART:20270127T193000Z
+DTEND:20270127T213000Z
+LAST-MODIFIED:20261030T174452Z
+SUMMARY:CO-INSPIRE
+DESCRIPTION:A free weekly gathering for changemakers\, connectors\, entrepr
+ eneurs\, creatives\, and community-minded humans to COLLABORATE.\n\nWhat i
+ f one day each week you stepped into a space where conversation\, collabor
+ ation\, creativity\, and genuine human connection happened naturally?\n\nC
+ o-Inspiring is a weekly\, open-house gathering designed to make collaborat
+ ion and support more accessible. It's not a networking event nor structure
+ d. It's a shared space where people come together to connect\, exchange id
+ eas\, hear one another\, support one another\, and discover what unfolds. 
+ WE BUILD BRIDGES.\n\nCome for 30 minutes or stay all day. Bring your curio
+ sity\, a friend\, a project you're working on\, your vision\, your laptop\
+ , food or drink—or simply yourself.\n\nWhen\nWednesdays | 12:30 PM – 2
+ :30 PM \nDrop in anytime!\n\nWhere: Archipelago\nWe'll be hanging on the f
+ irst floor\, come in the front door and we will be there to welcome you!\n
+ \nWho It's For\nEveryone is welcome. Every idenity\, background\, industry
+ .\nWhether you're building a business\, community or social justice moveme
+ nt\, exploring a new idea\, between projects AND looking for meaningful co
+ nversations\, collabative approach\, new possibilities... or creating deep
+ er relationships. You belong here.\n\nWhat to Expect\n● A host to greet 
+ you and introduce you to new folks\n● Real conversations about life\n●
+  Co-working and collaboration\n● New friendships\n● Inspiration and fr
+ esh perspectives\n● Space to both contribute and receive\, hear and be h
+ eard\n● A relaxed\, come-and-go atmosphere. No agenda. No pressure. \nSt
+ ay for as little or as long as you'd like.\n● Bring your own food and dr
+ ink!\n● Free Wi-Fi—bring your laptop if you'd like to work\n● Free p
+ arking lot.\n● Open seating on first floor\, tables or couches.\n\nOur I
+ nvitation\nThis experience works because of the people who participate.\n\
+ nCome willing to:\n● Be curious and open.\n● Listen deeply.\n● Respe
+ ct diverse perspectives.\n● Help cultivate the kind of community you'd l
+ ike to be part of.\n\nInvite a friend\, colleague\, client\, mentee\, or n
+ eighbor who would appreciate a more human way to connect.\n\nWant to Help 
+ Host?\nWe're looking for connectors to co-host once a month! Do you enjoy 
+ welcoming people\, making introductions\, and helping others feel at home?
+  If that sounds like you\, send Zannah a message\nat liberationstudio.co@g
+ mail.com\n\nWe will co-create a partnership (think- cross pollinate on soc
+ ial & eventbrite\, you can choose a theme and prompt if you'd like for the
+  group\, and more)\n\nLet's build the kind of community many of us have be
+ en looking for—together.\n\nInstructor: Zannah Campora\n\nPayment may be
+  required.\n\nPublicly listed\; guest eligibility and registration require
+ ments vary. This is not an RSVP.\n\nhttps://share.fitdegree.com/?r=4360588
+LOCATION:The Attic - Archipelago | 2345 7th Street
+URL:https://share.fitdegree.com/?r=4360588
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:archipelago-4384193@denver-community-event-feeds
+DTSTAMP:20261118T204156Z
+DTSTART:20270128T180000Z
+DTEND:20270128T200000Z
+LAST-MODIFIED:20261116T165401Z
+SUMMARY:Archipelago Community Project
+DESCRIPTION:Event Type: Community Wellness/Social\nOpen To: Members Only (t
+ his includes tenants\, members\, community ambassadors\, and past members 
+ who are still connected to the space)\nTickets: Free \n\nABOUT THE EVENT:\
+ n\nArchipelago is a space rich with stories\, relationships\, untapped pos
+ sibilities\, and humans like you! \n\nYou are invited to engage in the new
+  Archipelago Community Project: it is a series of free brainstorming sessi
+ ons to explore ideas and possibilities for Archipelago’s future. This di
+ alogue will include intentional structure and creative prompts to bring fo
+ rth collaborative conversations to help us all imagine and shape the futur
+ e of Archipelago.\n\nOver the next three months\, there will be 4 various 
+ opportunities to sit in a circle with one another in the Attic! \n\nThe mo
+ re you want to be involved\, we encourage you to come to more than one ses
+ sion\, as well as schedule a 1 to 1 with Zannah. If you only want to share
+  your ideas\, try to attend at least one session.\n\nCome share your exper
+ ience of this place and what you hope for it! We’re curious about what
+ ’s possible\, what Archipelago could become\, and how we all want to be 
+ here… together. \n\nBut we need YOU: your voice\, energy\, ideas\, and d
+ reams. What we hear from YOU can help shape the next chapter of Archipelag
+ o. \n\nJoin us at one or more sessions\, it’s free with an RSVP. Please 
+ invite anyone who cares about this space & community! \n\nThursday Nov 19t
+ h | 11am -1pm \nTuesday Dec 15th | 6:30-8:30pm \nThursday Jan 14th | 6:30-
+ 8:30pm \nThursday Jan 28th | 11am-1pm\n\nInstructor: Zannah Campora\n\nChe
+ ck registration for access and pricing.\n\nPublicly listed\; guest eligibi
+ lity and registration requirements vary. This is not an RSVP.\n\nhttps://s
+ hare.fitdegree.com/?r=4384193
+LOCATION:The Attic - Archipelago | 2345 7th Street
+URL:https://share.fitdegree.com/?r=4384193
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:archipelago-4236775@denver-community-event-feeds
+DTSTAMP:20261118T204156Z
+DTSTART:20270129T010000Z
+DTEND:20270129T040000Z
+LAST-MODIFIED:20260813T203336Z
+SUMMARY:Closer: Authentic Dating
+DESCRIPTION:Event Type: Wellness/Social\nOpen To: Members & Ticketed Guests
+ \nTickets: Free for the first 8 members\, $39 for guests\n\nPurchase guest
+  tickets here: https://circle.gettingcloser.co/events/closer-live-event\n\
+ nABOUT THE EVENT:\n\nCloser is an authentic dating membership for singles 
+ who want to meet with more intention\, depth\, and courage. The platform b
+ rings together live events\, dating strategy sessions\, The Authentic Dati
+ ng Course\, community\, and curated matchmaking consideration to help peop
+ le move beyond swipe culture and into real connection. It is for people wh
+ o want dating to feel more human\, supported\, and alive.\n\nCloser’s De
+ nver live events combine teaching\, guided practice\, and real-world conne
+ ction time. Each gathering introduces practical skills for creating more a
+ uthentic attraction\, conversation\, and intimacy\, then gives participant
+ s a chance to apply those skills through facilitated exercises\, mingling\
+ , and meaningful connection with other singles. The experience is structur
+ ed enough to make meeting easier\, while leaving plenty of room for natura
+ l chemistry and curiosity.\n\nInstructor: Ryel Kestano\, Johnny Wagner\, a
+ nd Jordan Burns\n\nPayment may be required.\n\nPublicly listed\; guest eli
+ gibility and registration requirements vary. This is not an RSVP.\n\nhttps
+ ://share.fitdegree.com/?r=4236775
+LOCATION:The Attic│2345 7th Street
+URL:https://share.fitdegree.com/?r=4236775
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:archipelago-4197538@denver-community-event-feeds
+DTSTAMP:20261118T204156Z
+DTSTART:20270207T200000Z
+DTEND:20270207T213000Z
+LAST-MODIFIED:20260720T191654Z
+SUMMARY:The Balanced Soul Strategy: Coming Back to Yourself
+DESCRIPTION:Event Type: Wellness\nOpen To: Members & Ticketed Guests\nTicke
+ ts: Free for Members\, $25 for Guests\n\nABOUT THE EVENT:\n\nWhen was the 
+ last time you were actually alone with yourself — no scroll\, no podcast
+ \, no to-do list? We start where everything starts: getting quiet enough t
+ o notice what's actually going on with you. \n\nThis session is an honest 
+ self-check — nothing to fix\, nothing bad or wrong about whatever you fi
+ nd. Just the first\, most useful question: where are we now\, and where wo
+ uld we like to be? On The Soul Wheel\, this is Connection to Self — one 
+ of your eight areas of life.\n\n_\n\nEach 90-minute session stands alone 
+ — come to one\, or work through the whole wheel. We pair honest self-ass
+ essment on one area of life with simple guided breathing — a direct\, pr
+ actical way to work with your nervous system\, which is where change actua
+ lly sticks — plus a settling meditation and optional sharing. \n\nNo exp
+ erience needed\; mats and blankets provided — just wear comfortable clot
+ hes and bring a pen and a journal. If you're pregnant or managing a heart 
+ condition\, epilepsy\, or a recent surgery\, mention it when you arrive: e
+ very practice has a\ngentle alternative.\n\nInstructor: Sara Christine\n\n
+ Payment may be required.\n\nPublicly listed\; guest eligibility and regist
+ ration requirements vary. This is not an RSVP.\n\nhttps://share.fitdegree.
+ com/?r=4197538
+LOCATION:The Attic - Archipelago | 2345 7th Street
+URL:https://share.fitdegree.com/?r=4197538
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:archipelago-4340804@denver-community-event-feeds
+DTSTAMP:20261118T204156Z
+DTSTART:20270214T010000Z
+DTEND:20270214T050000Z
+LAST-MODIFIED:20261018T034012Z
+SUMMARY:Dance Meets Tantra: Rendezvous
+DESCRIPTION:Event Type: Wellness/Educational\nOpen To: Members & Ticketed G
+ uests\nTickets: \nFree for 3 Members\, for Guests\, purchase tickets here:
+ \nhttps://www.tickettailor.com/events/yosefhayim/2459660\n\nABOUT THE EVEN
+ T:\n\nWhat happens when dance\, eros\, intimacy\, and ritual all meet in o
+ ne space?\n\nYou live for dance spaces where your full\, raw\, unfiltered 
+ expression is not only welcomed\, but celebrated.\n\nBut\, you don't just 
+ want to dance alone the whole time.\nYou want to be deeply met.\nNot just 
+ through physical contact - but to be truly seen\, held\, and understood.\n
+ \nYou long for a dance floor with enough attunement\, trust\, and permissi
+ on to allow your beautiful erotic nature to be felt and expressed.\nTo slo
+ w down and feel your center.\nTo let the music touch every part of you.\nT
+ o unapologetically shake dat ass and allow eros to pulse through every cel
+ l in your body.\n\nAnd you need it all to hold a deeper meaning.\nNot just
+  a brief encounter with pleasure and connection.\nIt needs to touch your s
+ oul.\nIt needs to be a prayer that ripples out and beyond.\n\nWelcome to D
+ ance Meets Tantra: Rendezvous.\n\nWhat goes down at DMT: Rendezvous?\n\nWe
+  move through 3 phases over the course of the evening:\n\n1. Infuse the fi
+ eld with trust\, permission\, and attunement.\nPractices to support you in
+  feeling safe and courageous - to own your boundaries\, needs\, and desire
+ s.\n\n2. Deepen the field with intimacy\, eros\, and play.\nRitual space t
+ o welcome your authentic\, vulnerable\, messy\, sexy\, full expression.\n\
+ n3. Dance the field into embodied\, interconnected aliveness.\nBring it al
+ l together in deep\, soulful\, sensual\, intimate dance.\n\nWe close each 
+ container with space to ground\, harvest\, and land the ship.\n\n\nOur int
+ entions for these evening immersions:\n\n1. Provide an entryway for newcom
+ ers into the ever-evolving world of Dance Meets Tantra.\n\n2. Create oppor
+ tunities for folks already inside the DMT field to stay connected to each 
+ other and the work.\n\n3. Drop into dance space that touches every part of
+  us - body\, sex\, heart\, and soul.\n\nNote on Tantra:\nFor us - Tantra i
+ s the practice and art of being fully alive. Our intention with Dance Meet
+ s Tantra is to support people in coming into greater love\, respect and re
+ lationship with themselves\, each other\, and the earth. We believe that d
+ ance\, eros and tantra are fundamental aspects of being alive\, empowered\
+ , and creative - so we invite various explorations in support of liberatin
+ g our creativity and life force.\n\nDance Meets Tantra is a space of:\n\n
+ ໑ Vulnerability: to be fully alive we need to get real. We create safer 
+ spaces to compassionately own and get present to the full range of our emo
+ tions\, fears\, blocks and discomfort.\n\n໑ Permission: to be the full e
+ xpression of ourselves - including our sensual and erotic nature - however
+  that looks.\n\n໑ Safety: boundaries\, consent\, attunement\, and self-r
+ esponsibility are essential and foundational to navigating safer space tog
+ ether.\n\n\nHow do I know if Dance Meets Tantra is for me?\n\n໑ You have
+  read this far and are feeling excitement\n\n໑ You are an experienced ec
+ static dancer and curious to explore more eros and sensuality in your prac
+ tice\n\n໑ You may be experienced with tantra and want to explore how dan
+ ce can enhance your practice in a profoundly beautiful and transformationa
+ l container\n\n໑ You are new to the world of dance of Ecstatic Dance\, o
+ r neo-Tantra and are curious to dive in!\n\n\nDuring our time together\, y
+ ou will have the opportunity to:\n\n໑ Explore eros and sensuality alongs
+ ide and amidst dance with the support and guidance of an attuned and power
+ ful facilitation team.\n\n໑ Foster authentic connections and deep intima
+ cy with self and others.\n\n໑ Unleash your creativity and learn to trust
+  your body's innate wisdom.\n\n໑ Rediscover your vulnerability\, innocen
+ ce and wildness in a space of trust\, permission and play!\n\n໑ Develop 
+ the capacity to take responsibility for your boundaries\, desires and need
+ s\, through self-attunement and clear present moment-based communication.\
+ n\n໑ Discover new pathways to sensual pleasure and expanded states of co
+ nsciousness.\n\n\nThis workshop is open to individuals of all experience l
+ evels\, genders\, and relationship orientations. Whether you are new to Da
+ nce / Ecstatic Dance and Dance Meets Tantra or have previous experience\, 
+ we invite you to come with an open heart and a willingness to explore.\n\n
+ \nAbout Dance Meets Tantra: \nBorn in Boulder\, CO and now traveling aroun
+ d the world\, Dance Meets Tantra bridges the worlds of conscious dance\, t
+ ransformational neo-tantra\, contact improv\, shadow work\, and relational
+  intimacy.\n\nInstructor: Soraya Masi\, Yosef Hayim\,  & LaVina Iyana\n\nP
+ ayment may be required.\n\nPublicly listed\; guest eligibility and registr
+ ation requirements vary. This is not an RSVP.\n\nhttps://share.fitdegree.c
+ om/?r=4340804
+LOCATION:The Attic - Archipelago | 2345 7th Street
+URL:https://share.fitdegree.com/?r=4340804
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:archipelago-4384315@denver-community-event-feeds
+DTSTAMP:20261118T204156Z
+DTSTART:20270219T020000Z
+DTEND:20270219T040000Z
+LAST-MODIFIED:20261116T184851Z
+SUMMARY:Soundularity presents: Gamma Theta Electronic Soundbath
+DESCRIPTION:Event Type: Wellness\nOpen To: Members & Ticketed Guests\nTicke
+ ts: Free for Members\, $40 for Guests\n\nABOUT THE EVENT:\n\nParticipants 
+ will receive brainwave-entraining sound frequencies engulfed in a tranquil
+  432Hz soundbath. Using analog synthesizers\, Binaural and Bilateral beats
+  are activated to slow brainwave patterns to a calming\, meditative state 
+ known as Theta. Electronic synthesizers are then layered to create lush dr
+ eamscapes to open the heart of the listener\, guiding them into the blissf
+ ul\, performance-enhancing state known as Gamma. Research shows that resid
+ ing in these brain states offer several therapeutic benefits including red
+ uced stress and anxiety\, relaxed nervous system\, and improved cognitive 
+ functioning/productivity.\n\n** Please bring a mat\, blankets/pillow\, eye
+  mask\, and anything that will you make you feel comfortable. **\n\nInstru
+ ctor: Tommy Dill Music\n\nPayment may be required.\n\nPublicly listed\; gu
+ est eligibility and registration requirements vary. This is not an RSVP.\n
+ \nhttps://share.fitdegree.com/?r=4384315
+LOCATION:The Attic - Archipelago | 2345 7th Street
+URL:https://share.fitdegree.com/?r=4384315
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:archipelago-4384316@denver-community-event-feeds
+DTSTAMP:20261118T204156Z
+DTSTART:20270219T020000Z
+DTEND:20270219T040000Z
+LAST-MODIFIED:20261116T184938Z
+SUMMARY:[GUEST TICKETS] Soundularity presents: Gamma Theta Electronic Sound
+ bath
+DESCRIPTION:Event Type: Wellness\nOpen To: Members & Ticketed Guests\nTicke
+ ts: Free for Members\, $40 for Guests\n\nABOUT THE EVENT:\n\nParticipants 
+ will receive brainwave-entraining sound frequencies engulfed in a tranquil
+  432Hz soundbath. Using analog synthesizers\, Binaural and Bilateral beats
+  are activated to slow brainwave patterns to a calming\, meditative state 
+ known as Theta. Electronic synthesizers are then layered to create lush dr
+ eamscapes to open the heart of the listener\, guiding them into the blissf
+ ul\, performance-enhancing state known as Gamma. Research shows that resid
+ ing in these brain states offer several therapeutic benefits including red
+ uced stress and anxiety\, relaxed nervous system\, and improved cognitive 
+ functioning/productivity.\n\n** Please bring a mat\, blankets/pillow\, eye
+  mask\, and anything that will you make you feel comfortable. **\n\nInstru
+ ctor: Tommy  Dill\n\nPayment may be required.\n\nPublicly listed\; guest e
+ ligibility and registration requirements vary. This is not an RSVP.\n\nhtt
+ ps://share.fitdegree.com/?r=4384316
+LOCATION:The Attic│2345 7th Street
+URL:https://share.fitdegree.com/?r=4384316
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:archipelago-4384325@denver-community-event-feeds
+DTSTAMP:20261118T204156Z
+DTSTART:20270220T020000Z
+DTEND:20270220T050000Z
+LAST-MODIFIED:20261116T193307Z
+SUMMARY:Sofar Sounds Concert in the Attic [Member Ticket Giveaway!]
+DESCRIPTION:Event Type: Social\nOpen To: Members Only!\nTickets: Free for M
+ embers\n\nABOUT THE GIVEAWAY:\n\nMembers - add your name to the waitlist f
+ or 2 free tickets to Sofar Sounds for you + a guest. We'll be giving away 
+ 3 pairs of tickets total. Winner will be announced the Monday before the e
+ vent.\n\n\nABOUT THE EVENT:\n\nhttps://www.sofarsounds.com/cities/denver\n
+ \nCome get cozy in the attic and settle in for something special. \nThree 
+ Denver Musicians with diverse sounds & a night that might just change how 
+ you listen to music... or remind you why you love live music in the first 
+ place. \n\nThis is a *sit down & be serenaded* type of experience!\n\nAlco
+ hol is allowed:\nYou can bring your own drinks\, including alcohol. Sofar 
+ does not provide cups or bottle openers\, so ensure you bring your own ute
+ nsils.\n\nMostly floor seating: cushions welcome\nThe venue has some chair
+ s but will mostly have floor seating\; you can bring cushions or blankets 
+ to make yourself more comfortable. If you have an accessibility need\, ple
+ ase reach out in advance to request that we set aside some chairs for your
+  group. Otherwise\, seating will be first come\, first served.\n\nReach ou
+ t here: https://help.sofarsounds.com/hc/en-us/requests/new\n\nAccessibilit
+ y information:\nThis space is not wheelchair accessible.\nFor more details
+  on how we can assist you\, check out this helpful article.\n\nIf you have
+  an accessibility need\, please get in touch either before or immediately 
+ after booking tickets so we can work with you to accommodate any requests.
+  Reach out here: https://help.sofarsounds.com/hc/en-us/requests/new\n\nAdd
+ itional information:\nFree public parking is available near this venue.\n\
+ nInstructor: SoFar Sounds\n\nPayment may be required.\n\nPublicly listed\;
+  guest eligibility and registration requirements vary. This is not an RSVP
+ .\n\nhttps://share.fitdegree.com/?r=4384325
+LOCATION:The Attic - Archipelago | 2345 7th Street
+URL:https://share.fitdegree.com/?r=4384325
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:archipelago-4197553@denver-community-event-feeds
+DTSTAMP:20261118T204156Z
+DTSTART:20270221T200000Z
+DTEND:20270221T213000Z
+LAST-MODIFIED:20260720T192229Z
+SUMMARY:The Balanced Soul Strategy: Listening to Your Body
+DESCRIPTION:Event Type: Wellness\nOpen To: Members & Ticketed Guests\nTicke
+ ts: Free for Members\, $25 for Guests\n\nABOUT THE EVENT:\n\nYour body has
+  been keeping notes — on your sleep\, your stress\, the rest you keep po
+ stponing. This session is about actually reading them. We slow down\, brea
+ the\, and practice noticing the signals your body has been sending\, witho
+ ut turning it into another self-improvement project. On The Soul Wheel\, t
+ his is Physical Well-being — one of your eight areas of life.\n\n_\n\nEa
+ ch 90-minute session stands alone — come to one\, or work through the wh
+ ole wheel. We pair honest self-assessment on one area of life with simple 
+ guided breathing — a direct\, practical way to work with your nervous sy
+ stem\, which is where change actually sticks — plus a settling meditatio
+ n and optional sharing. \n\nNo experience needed\; mats and blankets provi
+ ded — just wear comfortable clothes and bring a pen and a journal. If yo
+ u're pregnant or managing a heart condition\, epilepsy\, or a recent surge
+ ry\, mention it when you arrive: every practice has a\ngentle alternative.
+ \n\nInstructor: Sara Christine\n\nPayment may be required.\n\nPublicly lis
+ ted\; guest eligibility and registration requirements vary. This is not an
+  RSVP.\n\nhttps://share.fitdegree.com/?r=4197553
+LOCATION:The Attic - Archipelago | 2345 7th Street
+URL:https://share.fitdegree.com/?r=4197553
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
