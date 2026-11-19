@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:ATEvent-2c473ee6deba4c7483d88fd9a0b7f9fb@denver-community-event-feeds
-DTSTAMP:20261118T211155Z
+DTSTAMP:20261119T071922Z
 DTSTART:20261120T013000Z
 DTEND:20261120T030000Z
 SUMMARY:Trivia Night at Waldschänke Ciders
@@ -43,7 +43,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ATEvent-b2893fd6f8454cef843b0522bfb2b3a5@denver-community-event-feeds
-DTSTAMP:20261118T211155Z
+DTSTAMP:20261119T071922Z
 DTSTART:20261123T203000Z
 DTEND:20261123T220000Z
 SUMMARY:RMOTHG Book Club
@@ -60,7 +60,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ATEvent-ad151596c3cf400ab09b4fa4cf564f6f@denver-community-event-feeds
-DTSTAMP:20261118T211155Z
+DTSTAMP:20261119T071922Z
 DTSTART:20261210T010000Z
 DTEND:20261210T030000Z
 SUMMARY:Photography Section Quarterly Mtg
@@ -77,7 +77,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ATEvent-61f876314ca441faba3004a1460d8f1c@denver-community-event-feeds
-DTSTAMP:20261118T211155Z
+DTSTAMP:20261119T071922Z
 DTSTART:20270125T203000Z
 DTEND:20270125T220000Z
 SUMMARY:RMOTHG Book Club
@@ -92,8 +92,27 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:ATEvent-42b38afae6b3491da25f5cf8ef41cf99@denver-community-event-feeds
+DTSTAMP:20261119T071922Z
+DTSTART:20270310T150000Z
+DTEND:20270314T230000Z
+SUMMARY:AIARE Pro 1 Course with Silverton Avalanche School
+DESCRIPTION:AIARE PRO 1 is a 5‑day\, A3‑recognized professional avalanc
+ he course for early‑career avalanche workers or experienced professional
+ s updating skills to current national standards\n\nConfirm meeting details
+  and registration with CMC. Calendar listing is not registration.\nhttps:/
+ /www.cmc.org/community/front-range-groups/boulder/calendar-of-events-trips
+ -and-courses/upcoming-boulder-group-events-trips-and-courses/ical-view
+LOCATION:See organizer listing
+URL:https://www.cmc.org/community/front-range-groups/boulder/calendar-of-ev
+ ents-trips-and-courses/upcoming-boulder-group-events-trips-and-courses/ica
+ l-view
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:ATEvent-ec623f6433ab4fd9959e8061aeaa5fc7@denver-community-event-feeds
-DTSTAMP:20261118T211155Z
+DTSTAMP:20261119T071922Z
 DTSTART:20261209T003000Z
 DTEND:20261209T020000Z
 SUMMARY:Boulder Group Social Meetup
@@ -110,7 +129,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ATEvent-32020b51636d483aa60468afe1b9eeeb@denver-community-event-feeds
-DTSTAMP:20261118T211155Z
+DTSTAMP:20261119T071922Z
 DTSTART:20261210T010000Z
 DTEND:20261210T030000Z
 SUMMARY:Beyond FACETS: Managing Emergent Risk in Avalanche Terrain and Cand
@@ -122,6 +141,31 @@ DESCRIPTION:Small-group discussion centered on two videos from the CO Snow
  endar listing is not registration.\nhttps://www.cmc.org/community/front-ra
  nge-groups/boulder/calendar-of-events-trips-and-courses/upcoming-boulder-g
  roup-events-trips-and-courses/ical-view
+LOCATION:See organizer listing
+URL:https://www.cmc.org/community/front-range-groups/boulder/calendar-of-ev
+ ents-trips-and-courses/upcoming-boulder-group-events-trips-and-courses/ica
+ l-view
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ATEvent-b85b1c909560412fb2f852ae8de514c1@denver-community-event-feeds
+DTSTAMP:20261119T071922Z
+DTSTART:20270130T000000Z
+DTEND:20270130T040000Z
+SUMMARY:Boulder Group Annual Dinner and 2027 Kickoff
+DESCRIPTION:Join the Boulder Group for an evening of good food\, good frien
+ ds\, and good times.  There will be time to socialize with old friends and
+  new acquaintances\, a short business section to recap 2026 and plan for 2
+ 027\, and dinner provided by Sherpa's Restaurant.  This year's speaker is 
+ Erin Ton\, a Colorado-born mountain endurance athlete who spends most of h
+ er time trail running and scrambling alpine ridgelines across the West. Sh
+ e’s set well over 100 FKTs on peaks from Colorado 14ers\, to the Grand C
+ anyon\, and the Himalayas.  And\, we will conclude the evening with an ext
+ ra hour of mingling\, dancing\, etc.\n\nConfirm meeting details and regist
+ ration with CMC. Calendar listing is not registration.\nhttps://www.cmc.or
+ g/community/front-range-groups/boulder/calendar-of-events-trips-and-course
+ s/upcoming-boulder-group-events-trips-and-courses/ical-view
 LOCATION:See organizer listing
 URL:https://www.cmc.org/community/front-range-groups/boulder/calendar-of-ev
  ents-trips-and-courses/upcoming-boulder-group-events-trips-and-courses/ica
