@@ -25,29 +25,9 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:event_317213456@meetup.com
-SEQUENCE:1
-DTSTAMP:20261119T203037Z
-DTSTART;TZID=America/Denver:20261119T180000
-DTEND;TZID=America/Denver:20261119T200000
-SUMMARY:Ephemeral Run Club!
-DESCRIPTION:Beer You Can Only Get Here\nJeff Parks Run Club! Come out ever
- y Thursday to meet new friends\, run anywhere from 3-5 miles (folks choose
-  whatever they are feeling).\n\nNo drop\, new friends\, new beers every mo
- nth = good times! Excited to see you there\, join our Strava group as well
- :\n\nhttps://strava.app.link/l4bgIfaVF3b
-URL;VALUE=URI:https://www.meetup.com/beer-you-can-only-get-here/events/317
- 213456/
-STATUS:CONFIRMED
-CREATED:20261031T001226Z
-LAST-MODIFIED:20261031T001226Z
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:event_317321306@meetup.com
 SEQUENCE:1
-DTSTAMP:20261119T203037Z
+DTSTAMP:20261120T070840Z
 DTSTART;TZID=America/Denver:20261126T180000
 DTEND;TZID=America/Denver:20261126T200000
 SUMMARY:Ephemeral Run Club!
@@ -67,7 +47,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_317423291@meetup.com
 SEQUENCE:1
-DTSTAMP:20261119T203037Z
+DTSTAMP:20261120T070840Z
 DTSTART;TZID=America/Denver:20261203T180000
 DTEND;TZID=America/Denver:20261203T200000
 SUMMARY:Ephemeral Run Club!
