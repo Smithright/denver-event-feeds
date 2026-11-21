@@ -26,7 +26,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:mingle-004645ad-d766-472c-a80c-b068afbede92@denver-community-event-feed
  s
-DTSTAMP:20261120T200943Z
+DTSTAMP:20261121T070031Z
 DTSTART;TZID=America/Denver:20261130T190000
 DTEND;TZID=America/Denver:20261130T220000
 SUMMARY:Golf & Networking Night: IT Professionals (BALLPARK)
@@ -58,7 +58,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mingle-d722ed9c-f65b-4a75-b025-867c0b044d72@denver-community-event-feed
  s
-DTSTAMP:20261120T200943Z
+DTSTAMP:20261121T070031Z
 DTSTART;TZID=America/Denver:20261209T173000
 DTEND;TZID=America/Denver:20261209T193000
 SUMMARY:Curated Networking Night at Comet Brews (Apply to Attend)
@@ -93,7 +93,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mingle-80e9135f-48c3-464c-8f71-b77fe41c0b0a@denver-community-event-feed
  s
-DTSTAMP:20261120T200943Z
+DTSTAMP:20261121T070031Z
 DTSTART;TZID=America/Denver:20261210T090000
 DTEND;TZID=America/Denver:20261210T170000
 SUMMARY:Professional Club Coworking Together Day (BALLPARK)
@@ -126,7 +126,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mingle-eadeda3c-e903-4ab3-a9a6-ac7f395d8f25@denver-community-event-feed
  s
-DTSTAMP:20261120T200943Z
+DTSTAMP:20261121T070031Z
 DTSTART;TZID=America/Denver:20261210T180000
 DTEND;TZID=America/Denver:20261210T210000
 SUMMARY:RESCHEDULED Break into Tech Sales: Career Pivot Workshop (BALLPARK)
@@ -247,7 +247,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mingle-0b174fca-4730-418f-a7a0-833a30726e28@denver-community-event-feed
  s
-DTSTAMP:20261120T200943Z
+DTSTAMP:20261121T070031Z
 DTSTART;TZID=America/Denver:20261214T180000
 DTEND;TZID=America/Denver:20261214T203000
 SUMMARY:Networking Night: Freelancers at Adventure Time Bar (BAKER)
@@ -279,7 +279,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mingle-c7f49a97-67c8-4b32-a411-e8778ab12144@denver-community-event-feed
  s
-DTSTAMP:20261120T200943Z
+DTSTAMP:20261121T070031Z
 DTSTART;TZID=America/Denver:20261219T100000
 DTEND;TZID=America/Denver:20261219T120000
 SUMMARY:Coffee & Networking: eCommerce at Park Cowork (WASH PARK)
@@ -311,7 +311,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mingle-aded0eec-1887-4e6c-92a0-33d5449a0cb2@denver-community-event-feed
  s
-DTSTAMP:20261120T200943Z
+DTSTAMP:20261121T070031Z
 DTSTART;TZID=America/Denver:20270104T180000
 DTEND;TZID=America/Denver:20270104T210000
 SUMMARY:AI Step by Step Workshop 1: Business Process Audit (EAST COLFAX)
@@ -357,7 +357,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mingle-7b14ce1c-3d39-420d-be22-0db34422b395@denver-community-event-feed
  s
-DTSTAMP:20261120T200943Z
+DTSTAMP:20261121T070031Z
 DTSTART;TZID=America/Denver:20270107T180000
 DTEND;TZID=America/Denver:20270107T200000
 SUMMARY:Professional Club Networking at River North Brewery (GLOBEVILLE)
@@ -383,7 +383,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mingle-c024abfc-b396-4cb8-9323-5bc51098764a@denver-community-event-feed
  s
-DTSTAMP:20261120T200943Z
+DTSTAMP:20261121T070031Z
 DTSTART;TZID=America/Denver:20270111T180000
 DTEND;TZID=America/Denver:20270111T210000
 SUMMARY:AI Step by Step Workshop 2: Outbound Sales Agents (EAST COLFAX)
@@ -431,7 +431,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mingle-1089f89a-d5f6-490e-b686-b16c64f0674e@denver-community-event-feed
  s
-DTSTAMP:20261120T200943Z
+DTSTAMP:20261121T070031Z
 DTSTART;TZID=America/Denver:20270113T120000
 DTEND;TZID=America/Denver:20270113T140000
 SUMMARY:Lunch & Learn: CEO Group at Brews N Birdies (BALLPARK)
@@ -458,7 +458,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mingle-d15ff0a4-f7ef-4303-b6ac-3ab1599ae436@denver-community-event-feed
  s
-DTSTAMP:20261120T200943Z
+DTSTAMP:20261121T070031Z
 DTSTART;TZID=America/Denver:20270113T180000
 DTEND;TZID=America/Denver:20270113T200000
 SUMMARY:Professional Club Networking at River North Brewery (RINO)
@@ -481,9 +481,57 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:mingle-5398f1c8-aaef-464d-b621-0eea22316cff@denver-community-event-feed
+ s
+DTSTAMP:20261121T070031Z
+DTSTART;TZID=America/Denver:20270114T180000
+DTEND;TZID=America/Denver:20270114T193000
+SUMMARY:What's Happening with Real Estate in Denver: Q&A with Living Colora
+ do Team (RINO)
+DESCRIPTION:Price: Free\n\nThinking about buying\, selling\, or just wonder
+ ing what's really going on with Denver real estate? Start the new year wit
+ h straight answers.\n\nJoin John Wilkinson and Kenda Ruck of Living Colora
+ do Team at REAL Brokerage\, co-hosts of the podcast Living Colorado – Ge
+ tting Real (Estate)\, for a relaxed\, no-pressure evening on where the Den
+ ver market stands heading into 2027\, and what it means for you.\n\n🗓
+ ️ Thursday\, January 14\, 2027 · 6:00-7:30pm\n📍 The Wilderness Cowor
+ king\, 3875 Steele St\, York Street Yards\, Denver\n21+ · Hosted by Mingl
+ e Denver's Professional Club\n\nWhat we'll cover:\n• The state of the De
+ nver market: prices\, inventory\, and interest rates heading into 2027\n
+ • Buying your first home: what it really takes today\, and the steps to 
+ get started\n• Selling in today's market: pricing\, timing\, and how to 
+ stand out\n• Denver neighborhoods and housing trends worth watching\n•
+  Open Q&A: bring your questions\, big or small\n\nWhether you're renting a
+ nd dreaming\, ready to make a move\, or a homeowner weighing your options\
+ , you'll leave with clear\, practical information and a few new friends.\n
+ \nMember offer: Every guest can claim a free CMA (comparative market analy
+ sis) to see what a home is worth in today's market\, courtesy of Living Co
+ lorado Team.\n\nAbout your hosts\nJohn Wilkinson and Kenda Ruck are the dy
+ namic duo behind the Living Colorado Team at REAL Brokerage and co-hosts o
+ f the podcast Living Colorado – Getting Real (Estate). With backgrounds 
+ in real estate\, relocation\, and international living\, they bring market
+  insights\, practical guidance\, and a genuine passion for helping people 
+ navigate one of life's biggest decisions. Their goal is simple: take the m
+ ystery out of real estate and make finding a home in Colorado a little les
+ s overwhelming\, and a lot more exciting.\n\nThe night\n• 6:00pm: Arrive
+ \, grab a refreshment and mingle\n• 6:20pm: Market update and discussion
+  with John and Kenda\n• 7:00pm: Open Q&A\n• 7:30pm: Wrap up\n\n📝 Ha
+ ve a question for John and Kenda? Add it when you RSVP so they can come pr
+ epared.\n\nSpace is limited to 50 guests\, so RSVP early.\n\nRSVP or appli
+ cation may be required. Calendar listing does not register you.\n\nhttps:/
+ /mingledenver.com/events/what-s-happening-with-real-estate-in-denver-q-and
+ -a-with-liv-5398f1c8
+LOCATION:The Wilderness Coworking\, 3875 Steele St\, York Street Yards\, De
+ nver\, RiNo
+URL:https://mingledenver.com/events/what-s-happening-with-real-estate-in-de
+ nver-q-and-a-with-liv-5398f1c8
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:mingle-33fe651c-8c63-432e-8d6c-77fbe263e0a6@denver-community-event-feed
  s
-DTSTAMP:20261120T200943Z
+DTSTAMP:20261121T070031Z
 DTSTART;TZID=America/Denver:20270125T180000
 DTEND;TZID=America/Denver:20270125T210000
 SUMMARY:AI Step by Step Workshop 3: Marketing at Scale (EAST COLFAX)
@@ -528,7 +576,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mingle-12492690-4522-4c2a-8363-b3c66538807e@denver-community-event-feed
  s
-DTSTAMP:20261120T200943Z
+DTSTAMP:20261121T070031Z
 DTSTART;TZID=America/Denver:20270128T180000
 DTEND;TZID=America/Denver:20270128T200000
 SUMMARY:Networking Night: eCommerce at Industrious (LOHI)
@@ -609,7 +657,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mingle-83b47570-9e9e-4390-bc58-1b7b0bd36a02@denver-community-event-feed
  s
-DTSTAMP:20261120T200943Z
+DTSTAMP:20261121T070031Z
 DTSTART;TZID=America/Denver:20270204T180000
 DTEND;TZID=America/Denver:20270204T200000
 SUMMARY:Professional Club Networking at River North Brewery (RINO)
@@ -634,7 +682,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mingle-24c5f195-5080-4eb5-b485-ba288f1ad3a3@denver-community-event-feed
  s
-DTSTAMP:20261120T200943Z
+DTSTAMP:20261121T070031Z
 DTSTART;TZID=America/Denver:20270213T100000
 DTEND;TZID=America/Denver:20270213T120000
 SUMMARY:Coffee & Networking: Small Business at Park Cowork (WASH PARK)
@@ -665,7 +713,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mingle-f512728a-16dd-49af-9dce-806bf8c2acb1@denver-community-event-feed
  s
-DTSTAMP:20261120T200943Z
+DTSTAMP:20261121T070031Z
 DTSTART;TZID=America/Denver:20270306T100000
 DTEND;TZID=America/Denver:20270306T120000
 SUMMARY:Coffee & Networking: Freelancers at Park Cowork (WASH PARK)
