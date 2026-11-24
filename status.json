@@ -1,40 +1,40 @@
 {
-  "checkedAt": "2026-11-23T23:50:32.890Z",
+  "checkedAt": "2026-11-24T09:50:05.151Z",
   "sources": {
     "mingle-professional": {
       "ok": true,
       "count": 17,
-      "lastSuccess": "2026-11-23T23:50:32.890Z"
+      "lastSuccess": "2026-11-24T09:50:05.151Z"
     },
     "archipelago": {
       "ok": true,
-      "count": 34,
-      "lastSuccess": "2026-11-23T23:50:32.890Z"
+      "count": 33,
+      "lastSuccess": "2026-11-24T09:50:05.151Z"
     },
     "cerebral-congress-park": {
       "ok": true,
-      "count": 17,
-      "lastSuccess": "2026-11-23T23:50:32.890Z"
+      "count": 16,
+      "lastSuccess": "2026-11-24T09:50:05.151Z"
     },
     "ephemeral": {
       "ok": true,
       "count": 2,
-      "lastSuccess": "2026-11-23T23:50:32.890Z"
+      "lastSuccess": "2026-11-24T09:50:05.151Z"
     },
     "cmc-timed": {
       "ok": true,
       "count": 7,
-      "lastSuccess": "2026-11-23T23:50:32.890Z"
+      "lastSuccess": "2026-11-24T09:50:05.151Z"
     },
     "chaos-bloom": {
       "ok": true,
       "count": 61,
-      "lastSuccess": "2026-11-23T23:50:32.890Z"
+      "lastSuccess": "2026-11-24T09:50:05.151Z"
     },
     "clayton": {
       "ok": true,
       "count": 51,
-      "lastSuccess": "2026-11-23T23:50:32.890Z"
+      "lastSuccess": "2026-11-24T09:50:05.151Z"
     }
   }
 }
