@@ -26,7 +26,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:mingle-004645ad-d766-472c-a80c-b068afbede92@denver-community-event-feed
  s
-DTSTAMP:20261124T095005Z
+DTSTAMP:20261124T222246Z
 DTSTART;TZID=America/Denver:20261130T190000
 DTEND;TZID=America/Denver:20261130T220000
 SUMMARY:Golf & Networking Night: IT Professionals (BALLPARK)
@@ -58,7 +58,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mingle-d722ed9c-f65b-4a75-b025-867c0b044d72@denver-community-event-feed
  s
-DTSTAMP:20261124T095005Z
+DTSTAMP:20261124T222246Z
 DTSTART;TZID=America/Denver:20261209T173000
 DTEND;TZID=America/Denver:20261209T193000
 SUMMARY:Curated Networking Night at Comet Brews (Apply to Attend)
@@ -93,7 +93,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mingle-80e9135f-48c3-464c-8f71-b77fe41c0b0a@denver-community-event-feed
  s
-DTSTAMP:20261124T095005Z
+DTSTAMP:20261124T222246Z
 DTSTART;TZID=America/Denver:20261210T090000
 DTEND;TZID=America/Denver:20261210T170000
 SUMMARY:Professional Club Coworking Together Day (BALLPARK)
@@ -126,7 +126,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mingle-eadeda3c-e903-4ab3-a9a6-ac7f395d8f25@denver-community-event-feed
  s
-DTSTAMP:20261124T095005Z
+DTSTAMP:20261124T222246Z
 DTSTART;TZID=America/Denver:20261210T180000
 DTEND;TZID=America/Denver:20261210T210000
 SUMMARY:RESCHEDULED Break into Tech Sales: Career Pivot Workshop (BALLPARK)
@@ -247,7 +247,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mingle-0b174fca-4730-418f-a7a0-833a30726e28@denver-community-event-feed
  s
-DTSTAMP:20261124T095005Z
+DTSTAMP:20261124T222246Z
 DTSTART;TZID=America/Denver:20261214T180000
 DTEND;TZID=America/Denver:20261214T203000
 SUMMARY:Networking Night: Freelancers at Adventure Time Bar (BAKER)
@@ -279,7 +279,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mingle-c7f49a97-67c8-4b32-a411-e8778ab12144@denver-community-event-feed
  s
-DTSTAMP:20261124T095005Z
+DTSTAMP:20261124T222246Z
 DTSTART;TZID=America/Denver:20261219T100000
 DTEND;TZID=America/Denver:20261219T120000
 SUMMARY:Coffee & Networking: eCommerce at Park Cowork (WASH PARK)
@@ -311,7 +311,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mingle-aded0eec-1887-4e6c-92a0-33d5449a0cb2@denver-community-event-feed
  s
-DTSTAMP:20261124T095005Z
+DTSTAMP:20261124T222246Z
 DTSTART;TZID=America/Denver:20270104T180000
 DTEND;TZID=America/Denver:20270104T210000
 SUMMARY:AI Step by Step Workshop 1: Business Process Audit (EAST COLFAX)
@@ -357,7 +357,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mingle-7b14ce1c-3d39-420d-be22-0db34422b395@denver-community-event-feed
  s
-DTSTAMP:20261124T095005Z
+DTSTAMP:20261124T222246Z
 DTSTART;TZID=America/Denver:20270107T180000
 DTEND;TZID=America/Denver:20270107T200000
 SUMMARY:Professional Club Networking at River North Brewery (GLOBEVILLE)
@@ -383,7 +383,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mingle-c024abfc-b396-4cb8-9323-5bc51098764a@denver-community-event-feed
  s
-DTSTAMP:20261124T095005Z
+DTSTAMP:20261124T222246Z
 DTSTART;TZID=America/Denver:20270111T180000
 DTEND;TZID=America/Denver:20270111T210000
 SUMMARY:AI Step by Step Workshop 2: Outbound Sales Agents (EAST COLFAX)
@@ -431,7 +431,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mingle-1089f89a-d5f6-490e-b686-b16c64f0674e@denver-community-event-feed
  s
-DTSTAMP:20261124T095005Z
+DTSTAMP:20261124T222246Z
 DTSTART;TZID=America/Denver:20270113T120000
 DTEND;TZID=America/Denver:20270113T140000
 SUMMARY:Lunch & Learn: CEO Group at Brews N Birdies (BALLPARK)
@@ -458,7 +458,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mingle-d15ff0a4-f7ef-4303-b6ac-3ab1599ae436@denver-community-event-feed
  s
-DTSTAMP:20261124T095005Z
+DTSTAMP:20261124T222246Z
 DTSTART;TZID=America/Denver:20270113T180000
 DTEND;TZID=America/Denver:20270113T200000
 SUMMARY:Professional Club Networking at River North Brewery (RiNo)
@@ -483,7 +483,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mingle-5398f1c8-aaef-464d-b621-0eea22316cff@denver-community-event-feed
  s
-DTSTAMP:20261124T095005Z
+DTSTAMP:20261124T222246Z
 DTSTART;TZID=America/Denver:20270114T180000
 DTEND;TZID=America/Denver:20270114T193000
 SUMMARY:What's Happening with Real Estate in Denver: Q&A with Living Colora
@@ -529,9 +529,34 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:mingle-51c3b26c-b50d-476b-8bf3-c7319790870b@denver-community-event-feed
+ s
+DTSTAMP:20261124T222246Z
+DTSTART;TZID=America/Denver:20270125T083000
+DTEND;TZID=America/Denver:20270125T100000
+SUMMARY:Women CEOs Coffee & Networking | CWCC x Mingle Denver (LODO)
+DESCRIPTION:Price: Free\n\nStart your week in a room full of women who are 
+ building something. The Colorado Women's Chamber of Commerce and Mingle De
+ nver's Professional Club are teaming up for a morning of coffee and real c
+ onversation with women CEOs\, founders and business owners from across Den
+ ver.\n\n🗓️ Monday\, January 25\, 2027 · 8:30-10:00am\n📍 Ambler\, 
+ 1801 Wewatta St (by Union Station)\n\n8:30 Coffee and welcome\n8:45 Introd
+ uctions and a roundtable: what's your big goal for 2027?\n9:15 Open networ
+ king\n10:00 Wrap\n\nFree to attend. Coffee and food are available to purch
+ ase. 21+. Space is limited\, so please register in advance.\n\nRSVP or app
+ lication may be required. Calendar listing does not register you.\n\nhttps
+ ://mingledenver.com/events/women-ceos-coffee-and-networking-cwcc-x-mingle-
+ denver-lodo-51c3b26c
+LOCATION:Ambler\, 1801 Wewatta St\, LoDo
+URL:https://mingledenver.com/events/women-ceos-coffee-and-networking-cwcc-x
+ -mingle-denver-lodo-51c3b26c
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:mingle-33fe651c-8c63-432e-8d6c-77fbe263e0a6@denver-community-event-feed
  s
-DTSTAMP:20261124T095005Z
+DTSTAMP:20261124T222246Z
 DTSTART;TZID=America/Denver:20270125T180000
 DTEND;TZID=America/Denver:20270125T210000
 SUMMARY:AI Step by Step Workshop 3: Marketing at Scale (EAST COLFAX)
@@ -576,7 +601,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mingle-12492690-4522-4c2a-8363-b3c66538807e@denver-community-event-feed
  s
-DTSTAMP:20261124T095005Z
+DTSTAMP:20261124T222246Z
 DTSTART;TZID=America/Denver:20270128T180000
 DTEND;TZID=America/Denver:20270128T200000
 SUMMARY:Networking Night: eCommerce at Industrious (LOHI)
@@ -657,7 +682,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mingle-83b47570-9e9e-4390-bc58-1b7b0bd36a02@denver-community-event-feed
  s
-DTSTAMP:20261124T095005Z
+DTSTAMP:20261124T222246Z
 DTSTART;TZID=America/Denver:20270204T180000
 DTEND;TZID=America/Denver:20270204T200000
 SUMMARY:Professional Club Networking at River North Brewery (RiNo)
@@ -680,9 +705,43 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:mingle-bfdf0d47-8e22-46c5-90df-6c8a80edecd3@denver-community-event-feed
+ s
+DTSTAMP:20261124T222246Z
+DTSTART;TZID=America/Denver:20270208T180000
+DTEND;TZID=America/Denver:20270208T203000
+SUMMARY:Professional Networking Happy Hour at Hotel Teatro (DOWNTOWN)
+DESCRIPTION:Price: Free\n\nMeet Denver professionals over a glass of wine i
+ n The Study at Hotel Teatro\, one of downtown's most elegant historic hote
+ ls. 🍷\n\nConnections from all backgrounds and business stages are welco
+ me: founders\, freelancers\, small business owners\, corporate professiona
+ ls\, career changers and anyone looking to grow their network. Just good c
+ onversation with interesting people in a beautiful room.\n\n🍷 Complimen
+ tary pour of wine on arrival\, courtesy of Hotel Teatro\n🎟️ Free to a
+ ttend. RSVP to save your spot.\n🤝 Our hosts will help you jump into con
+ versations and make introductions\n\n🗓 Monday\, February 8\n🕕 6:00 
+ – 8:30 PM\n📍 The Study at Hotel Teatro\, 1100 14th St\, Denver\, CO 8
+ 0202 (Downtown)\n\n🚗 PARKING\nValet is the only on-site parking at Hote
+ l Teatro\, and Mingle Denver guests get a discounted valet rate of $18. Ju
+ st let the valet know you're here for the Mingle Denver networking event i
+ n The Study. Paid garages and street parking are also nearby\, and the 16t
+ h Street area and light rail are a short walk away.\n\nSpace is limited\, 
+ so please update your RSVP if your plans change so someone on the waitlist
+  can take your spot.\n\nAdditional drinks and food are on your own tab. Pl
+ ease tip your bartender.\n\n21+. See you there!\n\nRSVP or application may
+  be required. Calendar listing does not register you.\n\nhttps://mingleden
+ ver.com/events/professional-networking-happy-hour-at-hotel-teatro-downtown
+ -bfdf0d47
+LOCATION:Hotel Teatro (The Study)\, 1100 14th St\, Denver\, Downtown
+URL:https://mingledenver.com/events/professional-networking-happy-hour-at-h
+ otel-teatro-downtown-bfdf0d47
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:mingle-24c5f195-5080-4eb5-b485-ba288f1ad3a3@denver-community-event-feed
  s
-DTSTAMP:20261124T095005Z
+DTSTAMP:20261124T222246Z
 DTSTART;TZID=America/Denver:20270213T100000
 DTEND;TZID=America/Denver:20270213T120000
 SUMMARY:Coffee & Networking: Small Business at Park Cowork (WASH PARK)
@@ -713,7 +772,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mingle-f512728a-16dd-49af-9dce-806bf8c2acb1@denver-community-event-feed
  s
-DTSTAMP:20261124T095005Z
+DTSTAMP:20261124T222246Z
 DTSTART;TZID=America/Denver:20270306T100000
 DTEND;TZID=America/Denver:20270306T120000
 SUMMARY:Coffee & Networking: Freelancers at Park Cowork (WASH PARK)
@@ -738,6 +797,142 @@ DESCRIPTION:Price: Free\n\n☕ A Saturday morning coffee and networking ses
 LOCATION:Park Coworking\, 1040 S Gaylord St\, Denver\, Wash Park
 URL:https://mingledenver.com/events/coffee-and-networking-freelancers-at-pa
  rk-cowork-wash-park-f512728a
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:mingle-737545e2-d988-456b-8409-1041bfc9981f@denver-community-event-feed
+ s
+DTSTAMP:20261124T222246Z
+DTSTART;TZID=America/Denver:20270308T180000
+DTEND;TZID=America/Denver:20270308T203000
+SUMMARY:Professional Networking Happy Hour at Hotel Teatro (DOWNTOWN)
+DESCRIPTION:Price: Free\n\nMeet Denver professionals over a glass of wine i
+ n The Study at Hotel Teatro\, one of downtown's most elegant historic hote
+ ls. 🍷\n\nConnections from all backgrounds and business stages are welco
+ me: founders\, freelancers\, small business owners\, corporate professiona
+ ls\, career changers and anyone looking to grow their network. Just good c
+ onversation with interesting people in a beautiful room.\n\n🍷 Complimen
+ tary pour of wine on arrival\, courtesy of Hotel Teatro\n🎟️ Free to a
+ ttend. RSVP to save your spot.\n🤝 Our hosts will help you jump into con
+ versations and make introductions\n\n🗓 Monday\, March 8\n🕕 6:00 – 
+ 8:30 PM\n📍 The Study at Hotel Teatro\, 1100 14th St\, Denver\, CO 80202
+  (Downtown)\n\n🚗 PARKING\nValet is the only on-site parking at Hotel Te
+ atro\, and Mingle Denver guests get a discounted valet rate of $18. Just l
+ et the valet know you're here for the Mingle Denver networking event in Th
+ e Study. Paid garages and street parking are also nearby\, and the 16th St
+ reet area and light rail are a short walk away.\n\nSpace is limited\, so p
+ lease update your RSVP if your plans change so someone on the waitlist can
+  take your spot.\n\nAdditional drinks and food are on your own tab. Please
+  tip your bartender.\n\n21+. See you there!\n\nRSVP or application may be 
+ required. Calendar listing does not register you.\n\nhttps://mingledenver.
+ com/events/professional-networking-happy-hour-at-hotel-teatro-downtown-737
+ 545e2
+LOCATION:Hotel Teatro (The Study)\, 1100 14th St\, Denver\, Downtown
+URL:https://mingledenver.com/events/professional-networking-happy-hour-at-h
+ otel-teatro-downtown-737545e2
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:mingle-726b2ff7-f4c1-4ddc-8446-f2c946e8b96c@denver-community-event-feed
+ s
+DTSTAMP:20261124T222246Z
+DTSTART;TZID=America/Denver:20270412T180000
+DTEND;TZID=America/Denver:20270412T203000
+SUMMARY:Professional Networking Happy Hour at Hotel Teatro (DOWNTOWN)
+DESCRIPTION:Price: Free\n\nMeet Denver professionals over a glass of wine i
+ n The Study at Hotel Teatro\, one of downtown's most elegant historic hote
+ ls. 🍷\n\nConnections from all backgrounds and business stages are welco
+ me: founders\, freelancers\, small business owners\, corporate professiona
+ ls\, career changers and anyone looking to grow their network. Just good c
+ onversation with interesting people in a beautiful room.\n\n🍷 Complimen
+ tary pour of wine on arrival\, courtesy of Hotel Teatro\n🎟️ Free to a
+ ttend. RSVP to save your spot.\n🤝 Our hosts will help you jump into con
+ versations and make introductions\n\n🗓 Monday\, April 12\n🕕 6:00 –
+  8:30 PM\n📍 The Study at Hotel Teatro\, 1100 14th St\, Denver\, CO 8020
+ 2 (Downtown)\n\n🚗 PARKING\nValet is the only on-site parking at Hotel T
+ eatro\, and Mingle Denver guests get a discounted valet rate of $18. Just 
+ let the valet know you're here for the Mingle Denver networking event in T
+ he Study. Paid garages and street parking are also nearby\, and the 16th S
+ treet area and light rail are a short walk away.\n\nSpace is limited\, so 
+ please update your RSVP if your plans change so someone on the waitlist ca
+ n take your spot.\n\nAdditional drinks and food are on your own tab. Pleas
+ e tip your bartender.\n\n21+. See you there!\n\nRSVP or application may be
+  required. Calendar listing does not register you.\n\nhttps://mingledenver
+ .com/events/professional-networking-happy-hour-at-hotel-teatro-downtown-72
+ 6b2ff7
+LOCATION:Hotel Teatro (The Study)\, 1100 14th St\, Denver\, Downtown
+URL:https://mingledenver.com/events/professional-networking-happy-hour-at-h
+ otel-teatro-downtown-726b2ff7
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:mingle-6e2b343a-7d05-456e-87f3-f470528b8cc2@denver-community-event-feed
+ s
+DTSTAMP:20261124T222246Z
+DTSTART;TZID=America/Denver:20270510T180000
+DTEND;TZID=America/Denver:20270510T203000
+SUMMARY:Professional Networking Happy Hour at Hotel Teatro (DOWNTOWN)
+DESCRIPTION:Price: Free\n\nMeet Denver professionals over a glass of wine i
+ n The Study at Hotel Teatro\, one of downtown's most elegant historic hote
+ ls. 🍷\n\nConnections from all backgrounds and business stages are welco
+ me: founders\, freelancers\, small business owners\, corporate professiona
+ ls\, career changers and anyone looking to grow their network. Just good c
+ onversation with interesting people in a beautiful room.\n\n🍷 Complimen
+ tary pour of wine on arrival\, courtesy of Hotel Teatro\n🎟️ Free to a
+ ttend. RSVP to save your spot.\n🤝 Our hosts will help you jump into con
+ versations and make introductions\n\n🗓 Monday\, May 10\n🕕 6:00 – 8
+ :30 PM\n📍 The Study at Hotel Teatro\, 1100 14th St\, Denver\, CO 80202 
+ (Downtown)\n\n🚗 PARKING\nValet is the only on-site parking at Hotel Tea
+ tro\, and Mingle Denver guests get a discounted valet rate of $18. Just le
+ t the valet know you're here for the Mingle Denver networking event in The
+  Study. Paid garages and street parking are also nearby\, and the 16th Str
+ eet area and light rail are a short walk away.\n\nSpace is limited\, so pl
+ ease update your RSVP if your plans change so someone on the waitlist can 
+ take your spot.\n\nAdditional drinks and food are on your own tab. Please 
+ tip your bartender.\n\n21+. See you there!\n\nRSVP or application may be r
+ equired. Calendar listing does not register you.\n\nhttps://mingledenver.c
+ om/events/professional-networking-happy-hour-at-hotel-teatro-downtown-6e2b
+ 343a
+LOCATION:Hotel Teatro (The Study)\, 1100 14th St\, Denver\, Downtown
+URL:https://mingledenver.com/events/professional-networking-happy-hour-at-h
+ otel-teatro-downtown-6e2b343a
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:mingle-037f22ae-889d-4ef8-9052-9caeff2e107c@denver-community-event-feed
+ s
+DTSTAMP:20261124T222246Z
+DTSTART;TZID=America/Denver:20270614T180000
+DTEND;TZID=America/Denver:20270614T203000
+SUMMARY:Professional Networking Happy Hour at Hotel Teatro (DOWNTOWN)
+DESCRIPTION:Price: Free\n\nMeet Denver professionals over a glass of wine i
+ n The Study at Hotel Teatro\, one of downtown's most elegant historic hote
+ ls. 🍷\n\nConnections from all backgrounds and business stages are welco
+ me: founders\, freelancers\, small business owners\, corporate professiona
+ ls\, career changers and anyone looking to grow their network. Just good c
+ onversation with interesting people in a beautiful room.\n\n🍷 Complimen
+ tary pour of wine on arrival\, courtesy of Hotel Teatro\n🎟️ Free to a
+ ttend. RSVP to save your spot.\n🤝 Our hosts will help you jump into con
+ versations and make introductions\n\n🗓 Monday\, June 14\n🕕 6:00 – 
+ 8:30 PM\n📍 The Study at Hotel Teatro\, 1100 14th St\, Denver\, CO 80202
+  (Downtown)\n\n🚗 PARKING\nValet is the only on-site parking at Hotel Te
+ atro\, and Mingle Denver guests get a discounted valet rate of $18. Just l
+ et the valet know you're here for the Mingle Denver networking event in Th
+ e Study. Paid garages and street parking are also nearby\, and the 16th St
+ reet area and light rail are a short walk away.\n\nSpace is limited\, so p
+ lease update your RSVP if your plans change so someone on the waitlist can
+  take your spot.\n\nAdditional drinks and food are on your own tab. Please
+  tip your bartender.\n\n21+. See you there!\n\nRSVP or application may be 
+ required. Calendar listing does not register you.\n\nhttps://mingledenver.
+ com/events/professional-networking-happy-hour-at-hotel-teatro-downtown-037
+ f22ae
+LOCATION:Hotel Teatro (The Study)\, 1100 14th St\, Denver\, Downtown
+URL:https://mingledenver.com/events/professional-networking-happy-hour-at-h
+ otel-teatro-downtown-037f22ae
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
